@@ -1,0 +1,188 @@
+chinese;Chinese;Chinois;Chinesisch;;Chino;;;;;;;;;x
+chihan;Han;Han;Han;Han;Han;;;;;;;;;x
+cantonese;Yuht;Yuht;Yuht;Yuht;Yuht;;;;;;;;;x
+japanese;Yamato;Yamato;Yamato;Yamato;Yamato;;;;;;;;;x
+alien;Extraterrestrial;Extraterrestre;Au?erirdische;;Extraterrestre;;;;;;;;;x
+edensian;Edensian;Edensais;Edensich;;Edensio;;;;;;;;;x
+duke_japanese;Daimyou;Daimyou;Daimyou;;Daimyou;;;;;;;;;x
+duke_female_japanese;Daimyou;Daimyou;Daimyou;;Daimyou;;;;;;;;;x
+duchy_of_japanese;Domain of;Domaine de;Domain von;;Domino de;;;;;;;;;x
+RETTYPE_CUL_JP_INF;Samurai Hohei;Samurai Hohei;Samurai Hohei;;Samurai Hohei;;;;;;;;;x
+RETTYPE_CUL_JP_CAV;Samurai Kihei;Samurai Kihei;Samurai Kihei;;Samurai Kihei;;;;;;;;;x
+RETTYPE_CUL_CHI;Han Banner Army;;;;;;;;;x;;;;
+ca_japanese_inf_1;Samurai Infantry Dojo;;;;;;;;x;;;;;
+ca_japanese_inf_1_desc;Infantry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_inf_2;Samurai Infantry Dojo;;;;;;;;x;;;;;
+ca_japanese_inf_2_desc;Infantry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_inf_3;Samurai Infantry Dojo;;;;;;;;x;;;;;
+ca_japanese_inf_3_desc;Infantry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_inf_4;Samurai Infantry Dojo;;;;;;;;x;;;;;
+ca_japanese_inf_4_desc;Infantry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_cav_1;Samurai Cavalry Dojo;;;;;;;;x;;;;;
+ca_japanese_cav_1_desc;Cavalry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_cav_2;Samurai Cavalry Dojo;;;;;;;;x;;;;;
+ca_japanese_cav_2_desc;Cavalry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_cav_3;Samurai Cavalry Dojo;;;;;;;;x;;;;;
+ca_japanese_cav_3_desc;Cavalry Samurai are trained here..;;;;;;;;;x;;;;
+ca_japanese_cav_4;Samurai Cavalry Dojo;;;;;;;;x;;;;;
+ca_japanese_cav_4_desc;Cavalry Samurai are trained here..;;;;;;;;;x;;;;
+ca_chinese_1;War Academy;;;;;;;;x;;;;;
+ca_chinese_1_desc;Chinese Zhuge Nu Crossbowmen and Qiang Spearen are trained here..;;;;;;;;;x;;;;
+ca_chinese_2;War Academy;;;;;;;;x;;;;;
+ca_chinese_2_desc;Chinese Zhuge Nu Crossbowmen and Qiang Spearen are trained here..;;;;;;;;;x;;;;
+ca_chinese_3;War Academy;;;;;;;;x;;;;;
+ca_chinese_3_desc;Chinese Zhuge Nu Crossbowmen and Qiang Spearen are trained here..;;;;;;;;;x;;;;
+ca_chinese_4;War Academy;;;;;;;;x;;;;;
+ca_chinese_4_desc;Chinese Zhuge Nu Crossbowmen and Qiang Spearen are trained here..;;;;;;;;;x;;;;
+RETTYPE_REL_SHAOLIN;Warrior Monks;;;;;;;;;x;;;;
+tp_shaolin_1;Tranquil Garden;;;;;;;;x;;;;;
+tp_shaolin_1_desc;Most temples and large, formal houses in Japan and China included space for a garden as a place for rest and reflection. Gardens are also, of course, the perfect place to have a private conversation with agents, spies and emissaries away from the ears of guards and servants ? not something that is necessarily very easy in an Asian building with thin bamboo and paper screens rather than solid stone walls!;;;;;;;;;x;;;;
+tp_shaolin_2;Pavilion;;;;;;;;x;;;;;
+tp_shaolin_2_desc;Although religion often leads to a contemplative life of meditation, there have always been religious orders that have valued military prowess as much as prayer. In Japan, several orders of Buddhist warrior monks were the equal of any other warriors at the time, and showed no reluctance to become involved in politics beyond the Temple walls. The Nobunaga clan, as we?ve seen, had trouble with warrior monks from time to time. As allies the monks were extremely valuable, but as the section on Japanese history shows, keeping control of them could sometimes be a problem.;;;;;;;;;x;;;;
+tp_shaolin_3;Greater Pavilion;;;;;;;;x;;;;;
+tp_shaolin_3_desc;Although religion often leads to a contemplative life of meditation, there have always been religious orders that have valued military prowess as much as prayer. In Japan, several orders of Buddhist warrior monks were the equal of any other warriors at the time, and showed no reluctance to become involved in politics beyond the Temple walls. The Nobunaga clan, as we?ve seen, had trouble with warrior monks from time to time. As allies the monks were extremely valuable, but as the section on Japanese history shows, keeping control of them could sometimes be a problem.;;;;;;;;;x;;;;
+tp_shaolin_4;Legendary Pavilion;;;;;;;;x;;;;;
+tp_shaolin_4_desc;Although religion often leads to a contemplative life of meditation, there have always been religious orders that have valued military prowess as much as prayer. In Japan, several orders of Buddhist warrior monks were the equal of any other warriors at the time, and showed no reluctance to become involved in politics beyond the Temple walls. The Nobunaga clan, as we?ve seen, had trouble with warrior monks from time to time. As allies the monks were extremely valuable, but as the section on Japanese history shows, keeping control of them could sometimes be a problem.;;;;;;;;;x;;;;
+tp_shaolin_5;Legendary Pavilion II;;;;;;;;x;;;;;
+tp_shaolin_5_desc;Although religion often leads to a contemplative life of meditation, there have always been religious orders that have valued military prowess as much as prayer. In Japan, several orders of Buddhist warrior monks were the equal of any other warriors at the time, and showed no reluctance to become involved in politics beyond the Temple walls. The Nobunaga clan, as we?ve seen, had trouble with warrior monks from time to time. As allies the monks were extremely valuable, but as the section on Japanese history shows, keeping control of them could sometimes be a problem.;;;;;;;;;x;;;;
+tp_shaolin_6;Legendary Pavilion III;;;;;;;;x;;;;;
+tp_shaolin_6_desc;Although religion often leads to a contemplative life of meditation, there have always been religious orders that have valued military prowess as such as prayer. In Japan, several orders of Buddhist warrior monks were the equal of any other warriors at the time, and showed no reluctance to become involved in politics beyond the Temple walls. The Nobunaga clan, as we?ve seen, had trouble with warrior monks from time to time. As allies the monks were extremely valuable, but as the section on Japanese history shows, keeping control of them could sometimes be a problem.;;;;;;;;;x;;;;
+east_germanic;East Germanic;Germanique oriental;Ostgermanisch;;Germ?nica Oriental;;;;;;;;;x
+east_gothic;Ostrogothic;Ostrogothique;Ostgotisch;;Ostrogodica;;;;;;;;;x
+edensian_ev.1;You are born Edensian.;;;;;;;;x;;;;;
+EVTDESCedensian_ev.1;I am a pure-blooded Edensian.;;;;;;;;x;;;;;
+EVTOPTAedensian_ev.1;I am a pure-blooded Edensian.;;;;;;;;x;;;;;
+edensian_ev.2;You are born half-Edensian.;;;;;;;;x;;;;;
+EVTDESCedensian_ev.2;I am a half-Edensian.;;;;;;;;x;;;;;
+EVTOPTAedensian_ev.2;I am a half-Edensian.;;;;;;;;x;;;;;
+edensian_pure;Pure-blooded Edensian;;;;;;;;x;;;;;
+edensian_mixed;Has Edensian Blood;;;;;;;;x;;;;;
+edensian_pure_desc;This character is a pure-blooded Edensian, a member of an ancient alien civilization that has inspired humans many of their great achivement.;;;;;;;;x;;;;;
+edensian_mixed_desc;While this character may not have the honour of being a pure-blooded Edensan, he/she has Edensian blood, and it shows.;;;;;;;;x;;;;;
+edensian_ev.3;Witch or Wonderworker?;;;;;;;;x;;;;;
+edensian_ev.9;Life is never fair;;;;;;;;x;;;;;
+Y_U_NO_STUDY;Several weeks ago, I have managed to pass three exams without any studying. Enter now, and I have failed an exam - the only one I have studied for. Is this how fate is punishing me?;;;;;;;;x;;;;;
+NO_STUDY;*Sigh* Studying really is irreleant, after all...;;;;;;;;x;;;;;
+YES_STUDY;I must study harder!;;;;;;;;x;;;;;
+DIE_MF_DIE;All hope is lost... (commit suicide);;;;;;;;x;;;;;
+EVTDESCedensian_ev.3;My liege! A lady claiming to come from outside our planet has made an appearence in your court, and is requesting an audience with your majesty! She claims she could be of much us to you.;;;;;;;;x;;;;;
+EVTOPTAedensian_ev.3;Indeed?;;;;;;;;x;;;;;
+EVTOPTBedensian_ev.3;Witch! Throw her in the dungeon!;;;;;;;;x;;;;;
+EVTDESCedensian_ev.4;The courtier claims to come from a foreign planet named Edensia. She has skills few people in our realm have, but the idea of appointing a foreign lady to a council position would not be very good. Are we sure she's not a witch?.;;;;;;;;x;;;;;
+EVTOPTAedensian_ev.4;Let her stay at our court. She may be useful.;;;;;;;;x;;;;;
+EVTOPTBedensian_ev.4;Witch! Throw her in the dungeon!;;;;;;;;x;;;;;
+shinto_DESC;"Shinto (?? Shinto?), also kami-no-michi, is an indigenous religion of Japan and the people of Japan. It is defined as an action-centered religion, focused on ritual practices to be carried out diligently, to establish a connection between present-day Japan and its ancient past. Shinto practices were first recorded and codified in the written historical records of the Kojiki and Nihon Shoki in the 8th century. Still, these earliest Japanese writings do not refer to a unified ""Shinto religion"", but rather to a collection of native beliefs and mythology. Defining features in-game:\n?Y*?! There is no religious head\n?Y*?! Shintoists get a hefty Martial bonus\n?Y*?! Can declare limited Holy Wars against non-Indian religions\n?Y*?! Can designate any valid offspring as the heir";;;;;;;;;x;;;;
+shinto_holy_war_desc;?Y$CLAIMANT$?! can use this Casus Belli to seize the ?Y$TITLE$?!.;?Y$CLAIMANT$?! peut utiliser ce casus belli pour s'emparer du titre de ?Y$TITLE$?!.;?Y$CLAIMANT$?! kann diesen Kriegsgrund nutzen, um die ?Y$TITLE$?! an sich zu rei?en.;;?Y$CLAIMANT$?! puede usar este Casus Belli para apoderarse de ?Y$TITLE$?!.;;;;;;;;;x
+temple_kingdom_of_shinto;Miya of;Miya de;Miya von;;Miya de;;;;;;;;;x
+temple_barony_of_shinto;Jinja of;Jinja de;Jinja von;;Jinja de;;;;;;;;;x
+temple_duchy_of_shinto;Jinguu of;Jinguu de;Jinguu von;;Jinguu de;;;;;;;;;x
+temple_county_of_shinto;Taisha of;Taisha de;Taisha von;;Taisha de;;;;;;;;;x
+temple_baron_shinto;Kannushi;Kannushi;Kannushi;;Kannushi;;;;;;;;;x
+temple_count_shinto;Kannushi;Kannushi;Kannushi;;Kannushi;;;;;;;;;x
+temple_king_shinto;Oukannushi;Oukannushi;Oukannushi;;Oukannushi;;;;;;;;;x
+temple_duke_shinto;Gonkannushi;Gonkannushi;Gonkannushi;;Gonkannushi;;;;;;;;;x
+temple_baron_female_shinto;Miko;Miko;Miko;;Miko;;;;;;;;;x
+temple_count_female_shinto;Miko;Miko;Miko;;Miko;;;;;;;;;x
+temple_king_female_shinto;Himiko;Himiko;Himiko;;Himiko;;;;;;;;;x
+temple_duke_female_shinto;Miko;Miko;Miko;;Miko;;;;;;;;;x
+temple_count_female_shinto;Miko;Miko;Miko;;Miko;;;;;;;;;x
+shinto;Shinto;Shinto;Schintoisch;;Sinto?sta;;;;;;;;;x
+taoism_DESC;"Taoism (or Daoism) is a philosophical, ethical or religious tradition of Chinese origin that emphasizes living in harmony with the Tao (also romanized as Dao). The term Tao means ""way"", ""path"" or ""principle"", and can also be found in Chinese philosophies and religions other than Taoism. In Taoism, however, Tao denotes something that is both the source of, and the force behind, everything that exists. The ""way"" becomes clear when one is in constant meditation with all thoughts being subconsciously regulated outside the state of mental stillness, although emotions will drive thoughts they remain an absolute choice. Defining features in-game:\n?Y*?! There is no religious head\n?Y*?! Taoists get a hefty Martial bonus\n?Y*?! Can declare limited Holy Wars against non-Indian religions\n?Y*?! Can designate any valid offspring as the heir";;;;;;;;;x;;;;
+taoism_holy_war_desc;?Y$CLAIMANT$?! can use this Casus Belli to seize the ?Y$TITLE$?!.;?Y$CLAIMANT$?! peut utiliser ce casus belli pour s'emparer du titre de ?Y$TITLE$?!.;?Y$CLAIMANT$?! kann diesen Kriegsgrund nutzen, um die ?Y$TITLE$?! an sich zu rei?en.;;?Y$CLAIMANT$?! puede usar este Casus Belli para apoderarse de ?Y$TITLE$?!.;;;;;;;;;x
+temple_kingdom_of_taoism;Heavenly Kingdom of;;;;;;;;;x;;;;
+temple_barony_of_taoism;Temple of;Temple de;Temple von;;Temple de;;;;;;;;;x
+temple_duchy_of_taoism;Great Palace of;;;;;;;;;x;;;;
+temple_county_of_taoism;Palace of;Palace de;Palace von;;Palace de;;;;;;;;;x
+temple_baron_taoism;Daoshi;Daoshi;Daoshi;;Daoshi;;;;;;;;;x
+temple_count_taoism;Daoshi;Daoshi;Daoshi;;Daoshi;;;;;;;;;x
+temple_king_taoism;Daoshi;Daoshi;Daoshi;;Daoshi;;;;;;;;;x
+temple_duke_taoism;Daoshi;Daoshi;Daoshi;;Daoshi;;;;;;;;;x
+taoism;Taoist;Taoiste;Taoist;;Tao?sta;;;;;;;;;x
+convert_to_spouse_taoism;Convert to Taoism;Conversion au Taoisme;Konvertiert zum Taoismus;;Convertir al Tao?smo;;;;;;;;;x
+convert_to_spouse_taoism_desc;The pillow talk of a spouse or concubine can be very persuasive. Enlightenment and understanding as the way to end our suffering, it sounds very sensible...;Entre ?poux, les confidences sur l'oreiller peuvent avoir un grand pouvoir de persuasion. La compr?hension et la richesse spirituelle comme moyen de mettre un terme ? nos souffrances... Tout ceci est rempli de bon sens.;Das Bettgefl?ster einer Gemahlin oder Konkubine kann sehr ?berzeugend sein. Erleuchtung und Verst?ndnis - als Pfad zum Ende allen Leids - klingt sehr vern?nftig?;;Las charlas ?ntimas de una esposa o concubina pueden ser muy persuasivas. La ilustraci?n y el conocimiento como forma de detener el sufrimiento, parece muy sensible...;;;;;;;;;x
+convert_to_spouse_shinto;Convert to Shinto;Conversion au Shintoisme;Konvertiert zum Schintoismus;;Convertir al Sinto?smo;;;;;;;;;x
+convert_to_spouse_shinto_desc;The pillow talk of a spouse or concubine can be very persuasive. Enlightenment and understanding as the way to end our suffering, it sounds very sensible...;Entre ?poux, les confidences sur l'oreiller peuvent avoir un grand pouvoir de persuasion. La compr?hension et la richesse spirituelle comme moyen de mettre un terme ? nos souffrances... Tout ceci est rempli de bon sens.;Das Bettgefl?ster einer Gemahlin oder Konkubine kann sehr ?berzeugend sein. Erleuchtung und Verst?ndnis - als Pfad zum Ende allen Leids - klingt sehr vern?nftig?;;Las charlas ?ntimas de una esposa o concubina pueden ser muy persuasivas. La ilustraci?n y el conocimiento como forma de detener el sufrimiento, parece muy sensible...;;;;;;;;;x
+GOD_AMATERASU;Amaterasu;;;;;;;;;x;;;;
+slavic_culture_modifier;Defensive Light Infantry-oriented Culture;;;;;;;;;x;;;;
+nordic_culture_modifier;Offensive Heavy Infantry-oriented Culture;;;;;;;;;x;;;;
+welsh_culture_modifier;Archer-oriented Culture;;;;;;;;;x;;;;
+finnish_culture_modifier;Archer-oriented Culture;;;;;;;;;x;;;;
+dutch_culture_modifier;Polearm-oriented Culture;;;;;;;;;x;;;;
+knight_culture_modifier;Heavy Cavalry-oriented Culture;;;;;;;;;x;;;;
+iberian_culture_modifier;Light Cavalry-oriented Culture;;;;;;;;;x;;;;
+roman_culture_modifier;Balanced Heavy Infantry-oriented Culture;;;;;;;;;x;;;;
+iranian_culture_modifier;Balanced Cavalary-oriented Culture;;;;;;;;;x;;;;
+turkish_culture_modifier;Offensive Light Cavalry-oriented Culture;;;;;;;;;x;;;;
+arabic_culture_modifier;Offensive Light Infantry-oriented Culture;;;;;;;;;x;;;;
+indian_culture_modifier;Defensive Heavy Infantry-oriented Culture;;;;;;;;;x;;;;
+african_culture_modifier;Zeng Rush-oriented culture;;;;;;;;;x;;;;
+odin_believer;Worshipper of ??inn;;;;;;;;x;;;;;
+odin_believer_desc;This character worships ??inn, the Germanic deity of healing, death, royalty, the gallows, knowledge, battle, sorcery, poetry, frenzy, and the runic alphabet..;;;;;;;;x;;;;;
+tor_believer;Worshipper of ??rr;;;;;;;;x;;;;;
+tor_believer_desc;This character worships ??rr, the Germanic hammer-wielding god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, and also hallowing, healing and fertility..;;;;;;;;x;;;;;
+njord_believer;Worshipper of Nj?r?r;;;;;;;;x;;;;;
+njord_believer_desc;This character worships Nj?r?r, the Germanic deity of sea, seafaring, wind, fishing, wealth, and crop fertility.;;;;;;;;x;;;;;
+freya_believer;Worshipper of Freyja;;;;;;;;x;;;;;
+freya_believer_desc;This character worships Freyja, the Germanic goddess associated with love, sexuality, beauty, fertility, gold, sei?r, war, and death.;;;;;;;;x;;;;;
+tyr_believer;Worshipper of T?r;;;;;;;;x;;;;;
+tyr_believer_desc;This character worships T?r, the Germanic deity of law who will take mead, meat and blood for sacrifice.;;;;;;;;x;;;;;
+snotra_believer;Worshipper of Snotra;;;;;;;;x;;;;;
+snotra_believer_desc;This character worships Snotra, the Germanic goddess of wisdom.;;;;;;;;x;;;;;
+choose_norse_patron_deity;Choose a patron deity;;;;;;;;x;;;;;
+edensian_ev.10;Choose a patron deity!;;;;;;;;x;;;;;
+edensian_ev_10;While it is possible to be a true Germanic believer without being selective and limiting yourself to the worship of only one deity, establishing a deeper relationship with one of the deities can bring heavy advantages, although, the possibility of polarizing your realm and circles stands there too.\nSo, which deity do you choose?;;;;;;;;x;;;;;
+choose_odin;My patron shall be none other than ??inn allfather.;;;;;;;;x;;;;;
+choose_tor;My favoured one is ??rr, the hammer-wielding thunder-god.;;;;;;;;x;;;;;
+choose_njord;My flagship will be built under Nj?r?r's blessing.;;;;;;;;x;;;;;
+choose_freya;I shall stop resisting Freyja's allure, and submit to her charms...;;;;;;;;x;;;;;
+choose_tyr;We'll drink to our youth, and to my new patron deity T?r!;;;;;;;;x;;;;;
+choose_snotra;I seek wisdom, not riches. Snotra will grant me what I want.;;;;;;;;x;;;;;
+too_mainsream;These gods are too mainstream. I wanna be a hipster!;;;;;;;;x;;;;;
+choose_mainsream;On second thought, I will pick one of the mainstream gods...;;;;;;;;x;;;;;
+tb_culture_group_north_germanic_1_desc;Housecarls are trained here, providing excellent if somewhat ill-tempered heavy infantry, usually equipped with powerful battle axes.;Les housecarls s'entra?nent ici. Habituellement ?quip?s de puissantes haches de combat, ils forment une infanterie lourde qui peut avoir tr?s mauvais caract?re.;Die Huscarl werden hier ausgebildet. Sie leisten ausgezeichnete Arbeit, auch wenn sie eine etwas ?bellaunige, schwere Infanterie sind, die normalerweise mit m?chtigen Kampf?xten ausger?stet ist.;;Aqu? se entrenan los huscarles, que constituyen una excelente infanter?a pesada, a pesar de su mal car?cter. Suelen equiparse con potentes hachas de guerra. ;;;;;;;;;x
+tb_culture_group_north_germanic_1;Housecarl Training Ground;Terrain d'entra?nement des housecarls;Huscarl-?bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x
+tb_culture_group_north_germanic_2;Housecarl Training Ground;Terrain d'entra?nement des housecarls;Huscarl-?bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x
+tb_culture_group_north_germanic_3;Housecarl Training Ground;Terrain d'entra?nement des housecarls;Huscarl-?bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x
+tb_culture_group_north_germanic_4;Housecarl Training Ground;Terrain d'entra?nement des housecarls;Huscarl-?bungsgel?nde;;Campo de entrenamiento de huscarles;;;;;;;;;x
+tb_culture_group_altaic_1;Small Riding Grounds;Petit camp ?questre;Kleines Reitgel?nde;;Zona de equitaci?n peque?a;;;;;;;;;x
+tb_culture_group_altaic_2;Medium Riding Grounds;Camp ?questre;Mittleres Reitgel?nde;;Zona de equitaci?n mediana;;;;;;;;;x
+tb_culture_group_altaic_3;Large Riding Grounds;Grand camp ?questre;Gro?es Reitgel?nde;;Zona de equitaci?n grande;;;;;;;;;x
+tb_culture_group_altaic_4;Great Riding Grounds;Grande chevauch?e;Riesiges Reitgel?nde;;Zona de equitaci?n muy grande;;;;;;;;;x
+religious_authority;Religious Authority;Autorit? Religieuse;Macht der Religion;;Autoridad de la Religi?n;;;;;;;;;x
+religious_authority_desc;Religious Authority determines two things - how low if your tolerance for heathens and heretics, and how strongly does the state - that is, YOU - interfere in religious matters. Tolerant policies work wonders to prevent revolts of religious nature, but are likely to upset your coreligionists. Lack of tolerance for infidels will likely appease your coreligionists, but having too high Religious Authority will most likely also make your coreligionists angry, as you are interfering too much in religious matters.;;;;;;;;;x;;;;
+religious_freedom;Free Worship;Libre Culte;Religionsfreiheit;;Adoraci?n Libre.;;;;;;;;;x
+religious_freedom_desc;Religious tolerance reigns in the state, meaning that all religions are tolerated. While this greatly reduces the chance of infidel rebellions, your religious head will be most likely upset.;;;;;;;;;x;;;;
+religious_freedom_option;Relaxed;Libre;Frei;;Libre.;;;;;;;;;x
+minimal_rel_author;Lax Religious Authority;Autorit? religieuse laxiste;Entspannt Macht der Religion;;Autoridad de la Religi?n Laxa;;;;;;;;;x
+minimal_rel_author_option;Min;Min.;Min;;M?n.;;;;;;;;;x
+minimal_rel_author_desc;While the state may not have full control over the church and religion, the head of the state still makes a definitive point that there is a state religion that takes priority over all other religions.;;;;;;;;;x;;;;
+medium_rel_author;Medium Religious Authority;Autorit? religieuse moyenne;Mittlere Macht der Religion;;Autoridad de la Religi?n media;;;;;;;;;x
+medium_rel_author_option;Medium;Moyenne;Mittel;;Media;;;;;;;;;x
+medium_rel_author_desc;Other religions are barely tolerated - the state religion is enforced. True believers are happy with this policy, and the head of religion finds this policy commendable.;;;;;;;;;x;;;;
+high_rel_author;High Religious Authority;Autorit? religieuse forte;Starke Macht der Religion;;Autoridad de la Religi?n alta;;;;;;;;;x
+high_rel_author_option;High;Forte;Stark;;Alta;;;;;;;;;x
+high_rel_author_desc;Not only there is zero tolerance for heathens and heretics, but there is also little tolerance for external interference in the state's religious matters. What does that mean? That means that secular authorities controlled under the thumb of the head of state are also in charge of religious matters - the Head of Religion does not approve.;;;;;;;;;x;;;;
+abs_rel_author;Absolute Religious Authority;Autorit? religieuse absolue;Absolute Macht der Religion;;Autoridad de la Religi?n absoluta;;;;;;;;;x
+abs_rel_author_option;Max;Max.;Max;;M?x.;;;;;;;;;x
+abs_rel_author_desc;The state's grip on religious matters is nearly absolute. There is zero policy for heathens and heretics, and even the Head of the Religion has little to say in this state's religious matters. It's like you're an independent church or something..;;;;;;;;;x;;;;
+minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;Minyue;x
+nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;Nanyue;x
+shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;Shanyue;x
+tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;Tibetan;x
+di;Di;Di;Di;Di;Di;Di;Di;Di;Di;Di;Di;Di;Di;x
+qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;Qiang;x
+korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;x
+joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;Joseon;x
+samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;Samhan;x
+xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;Xiongnu;x
+wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;Wuhuan;x
+xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;Xianbei;x
+japonic;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;Japanese;x
+han;Han;Han;Han;Han;Han;;;;;;;;;x
+yue;Yuht;Yuht;Yuht;Yuht;Yuht;;;;;;;;;x
+bisexual;Bisexual;;;;;;;;x;;;;;
+bisexual_desc;This character is attracted to both men and women..;;;;;;;;x;;;;;
+bihetero;Bisexual (hetero-preference);;;;;;;;x;;;;;
+bihetero_desc;This character is attracted to both men and women, although (s)he prefers the opposite sex..;;;;;;;;x;;;;;
+bihomo;Bisexual (homo-preference);;;;;;;;x;;;;;
+bihomo_desc;This character is attracted to both men and women, although (s)he prefers his/her own sex..;;;;;;;;x;;;;;

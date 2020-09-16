@@ -1,0 +1,608 @@
+#################################################
+#
+# ageCustomizer traits removal events
+#
+# Written by Skefrep
+#
+#################################################
+
+namespace = lulz
+
+character_event = {
+	id = lulz.1
+	desc = "Lulz Initialization"
+	
+	trigger = {
+		NOT = { has_global_flag = lulz_initialized }
+		has_landed_title = k_papal_state	# The pope always exists
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		set_global_flag = lulz_initialized
+		any_playable_ruler = {
+			limit = {
+				trait = adventurer
+			}
+			character_event = {
+					id = lulz.2
+			}
+		}
+	}
+	
+	option = {
+		name = "Lulz Initialisation"
+		c_1000260786 = { character_event = { id = lulz.3 } }
+		c_1000260786 = { character_event = { id = lulz.2 } }
+		# c_1000260787 = { character_event = { id = lulz.2 } }
+		# c_1000260788 = { character_event = { id = lulz.2 } }
+		# c_1000260789 = { character_event = { id = lulz.2 } }
+		# c_1000260790 = { character_event = { id = lulz.2 } }
+		# c_1000260791 = { character_event = { id = lulz.2 } }
+		# c_1000260792 = { character_event = { id = lulz.2 } }
+		# c_1000260793 = { character_event = { id = lulz.2 } }
+		# c_1000260795 = { character_event = { id = lulz.2 } }
+		# c_1000260796 = { character_event = { id = lulz.2 } }
+		# c_1000260797 = { character_event = { id = lulz.2 } }
+		# c_1000260798 = { character_event = { id = lulz.2 } }
+		# c_1000260799 = { character_event = { id = lulz.2 } }
+		# c_1000260800 = { character_event = { id = lulz.2 } }
+		# c_1000260801 = { character_event = { id = lulz.2 } }
+		# c_1000260802 = { character_event = { id = lulz.2 } }
+		# c_1000260805 = { character_event = { id = lulz.2 } }
+		# c_1000260806 = { character_event = { id = lulz.2 } }
+		# c_1000260807 = { character_event = { id = lulz.2 } }
+		# c_1000260808 = { character_event = { id = lulz.2 } }
+		# c_1000260809 = { character_event = { id = lulz.2 } }
+		c_1000260812 = { character_event = { id = lulz.2 } }
+		# c_1000260815 = { character_event = { id = lulz.2 } }
+		# c_1000260817 = { character_event = { id = lulz.2 } }
+		# c_1000260819 = { character_event = { id = lulz.2 } }
+	}
+}
+
+character_event = {
+	id = lulz.2
+	desc = "Lulz Initialization"
+		
+	is_triggered_only = yes
+		
+	option = {
+		name = "Alright, let's convert"
+		hidden_tooltip = {
+		culture_techpoints = 1000000
+		economy_techpoints = 1000000
+		military_techpoints = 1000000
+		any_demesne_province = {
+		set_variable = { which = count value = 9 }
+			while = {
+			limit = {
+				check_variable = {
+					which = count
+					value = 1
+				}
+			}    
+			subtract_variable = {
+				which = count
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_INFANTRY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CAVALRY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_SKIRMISH
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_MELEE
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_SIEGE_EQUIPMENT
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_RECRUITMENT
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CASTLE_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CITY_CONSTRUCTION
+				value = 1
+			}
+			#change_tech = {
+			#	technology = TECH_TEMPLE_CONSTRUCTION
+			#	value = 1
+			#}
+			change_tech = {
+				technology = TECH_FORTIFICATIONS_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_TRADE_PRACTICES
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_NAVAL
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_NOBLE_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_POPULAR_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_RELIGIOUS_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_MAJESTY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CULTURE_FLEX
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_LEGALISM
+				value = 1
+			}
+			}
+			culture = ROOT
+			religion = ROOT
+			create_hospital = THIS
+			add_to_extra_holding = { type = hospital building = hospital_building_5 } 
+			add_to_extra_holding = { type = hospital building = leper_colony_1 } 
+			add_to_extra_holding = { type = hospital building = soup_kitchen_1 } 
+			add_to_extra_holding = { type = hospital building = chapel_1 } 
+			add_to_extra_holding = { type = hospital building = translation_house_1 } 
+			add_to_extra_holding = { type = hospital building = pilgrims_inn_1 } 
+			add_to_extra_holding = { type = hospital building = library_1 } 
+			add_to_extra_holding = { type = hospital building = pharmacology_laboratory_1 } 
+			add_to_extra_holding = { type = hospital building = medical_academy_1 } 
+			add_to_extra_holding = { type = hospital building = observatory_1 } 
+			any_province_holding = {
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_feudal = yes
+						}
+					}
+					add_building = ca_wall_q_5
+					add_building = ca_con_wall_6
+					add_building = ca_keep_6
+					add_building = ca_militia_barracks_4
+					add_building = ca_training_grounds_3
+					add_building = ca_barracks_6
+					add_building = ca_stable_6
+					add_building = ca_town_6
+					add_building = ca_special_fortifications_4
+					add_building = ca_oppressive_fortifications_4
+					add_building = ca_culture_saxon_english_4
+					add_building = ca_culture_scottish_4
+					add_building = ca_culture_group_baltic_4
+					add_building = ca_culture_group_altaic_4
+					add_building = ca_culture_frank_norman_german_4
+					add_building = ca_culture_group_iberian_4
+					add_building = ca_culture_italian_4
+					add_building = ca_culture_russian_4
+					add_building = ca_culture_group_north_germanic_4
+					add_building = ca_culture_hungarian_4
+					add_building = ca_culture_group_arabic_4
+					add_building = ca_culture_group_byzantine_4
+					add_building = ca_culture_irish_4
+					add_building = ca_culture_indian_4
+					add_building = ca_culture_group_south_slavic_4
+					add_building = ca_culture_dutch_4
+					add_building = ca_culture_moors_4
+					add_building = ca_culture_chinese_han_4
+					add_building = ca_culture_arberian_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_feudal = yes
+						}
+					}
+					add_building = ca_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_republic = yes
+						}
+					}
+					add_building = ct_shipyard_4
+					add_building = ct_port_5
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_republic = yes
+						}
+					}
+					add_building = ct_wall_q_5
+					add_building = ct_wall_5
+					add_building = ct_rep_arsenal_3
+					add_building = ct_training_grounds_6
+					add_building = ct_barracks_6
+					add_building = ct_guard_5
+					add_building = ct_marketplace_6
+					add_building = ct_university_3
+					add_building = ct_planned_infrastructure_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_priest = yes
+						}
+					}
+					add_building = tp_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_priest = yes
+						}
+					}
+					add_building = tp_wall_q_5
+					add_building = tp_wall_5
+					add_building = tp_monastery_6
+					add_building = tp_barracks_6
+					add_building = tp_elite_barracks_6
+					add_building = tp_town_6
+					add_building = tp_school_2
+					add_building = tp_monumental_shrines_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_tribal = yes
+						}
+					}
+					add_building = tb_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_tribal = yes
+						}
+					}
+					add_building = tb_hillfort_4
+					add_building = tb_market_town_4
+					add_building = tb_defensive_fortifications_4
+					add_building = tb_training_grounds_4
+					add_building = tb_steppe_barracks_4
+					add_building = tb_steppe_stable_4
+					add_building = tb_arsenal_4
+					add_building = tb_culture_saxon_english_4
+					add_building = tb_culture_scottish_4
+					add_building = tb_culture_group_altaic_4
+					add_building = tb_culture_frank_norman_german_4
+					add_building = tb_culture_group_iberian_4
+					add_building = tb_culture_italian_4
+					add_building = tb_culture_hungarian_4
+			}
+			}
+		}
+		}
+}
+}
+character_event = {
+	id = lulz.3
+	desc = "Lulz Initialization"
+		
+	is_triggered_only = yes
+		
+	option = {
+		name = "Alright, let's convert"
+		any_friend = {
+		limit = {
+		demesne_size = 1
+		}
+		character_event = {
+		id = lulz.2
+		}
+		}
+	}
+}
+
+
+character_event = {
+	id = lulz.4
+	desc = "Lulz Initialization"
+		
+	is_triggered_only = yes
+		
+	option = {
+		name = "Alright, let's build"
+		hidden_tooltip = {
+		culture_techpoints = 1000000
+		economy_techpoints = 1000000
+		military_techpoints = 1000000
+		any_demesne_province = {
+		set_variable = { which = count value = 9 }
+			while = {
+			limit = {
+				check_variable = {
+					which = count
+					value = 1
+				}
+			}    
+			subtract_variable = {
+				which = count
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_INFANTRY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CAVALRY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_SKIRMISH
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_MELEE
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_SIEGE_EQUIPMENT
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_RECRUITMENT
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CASTLE_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CITY_CONSTRUCTION
+				value = 1
+			}
+			#change_tech = {
+			#	technology = TECH_TEMPLE_CONSTRUCTION
+			#	value = 1
+			#}
+			change_tech = {
+				technology = TECH_FORTIFICATIONS_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_TRADE_PRACTICES
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CONSTRUCTION
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_NAVAL
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_NOBLE_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_POPULAR_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_RELIGIOUS_CUSTOMS
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_MAJESTY
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_CULTURE_FLEX
+				value = 1
+			}
+			change_tech = {
+				technology = TECH_LEGALISM
+				value = 1
+			}
+			}
+			create_hospital = THIS
+			add_to_extra_holding = { type = hospital building = hospital_building_5 } 
+			add_to_extra_holding = { type = hospital building = leper_colony_1 } 
+			add_to_extra_holding = { type = hospital building = soup_kitchen_1 } 
+			add_to_extra_holding = { type = hospital building = chapel_1 } 
+			add_to_extra_holding = { type = hospital building = translation_house_1 } 
+			add_to_extra_holding = { type = hospital building = pilgrims_inn_1 } 
+			add_to_extra_holding = { type = hospital building = library_1 } 
+			add_to_extra_holding = { type = hospital building = pharmacology_laboratory_1 } 
+			add_to_extra_holding = { type = hospital building = medical_academy_1 } 
+			add_to_extra_holding = { type = hospital building = observatory_1 } 
+			any_province_holding = {
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_feudal = yes
+						}
+					}
+					add_building = ca_wall_q_5
+					add_building = ca_con_wall_6
+					add_building = ca_keep_6
+					add_building = ca_militia_barracks_4
+					add_building = ca_training_grounds_3
+					add_building = ca_barracks_6
+					add_building = ca_stable_6
+					add_building = ca_town_6
+					add_building = ca_special_fortifications_4
+					add_building = ca_oppressive_fortifications_4
+					add_building = ca_culture_saxon_english_4
+					add_building = ca_culture_scottish_4
+					add_building = ca_culture_group_baltic_4
+					add_building = ca_culture_group_altaic_4
+					add_building = ca_culture_frank_norman_german_4
+					add_building = ca_culture_group_iberian_4
+					add_building = ca_culture_italian_4
+					add_building = ca_culture_russian_4
+					add_building = ca_culture_group_north_germanic_4
+					add_building = ca_culture_hungarian_4
+					add_building = ca_culture_group_arabic_4
+					add_building = ca_culture_group_byzantine_4
+					add_building = ca_culture_irish_4
+					add_building = ca_culture_indian_4
+					add_building = ca_culture_group_south_slavic_4
+					add_building = ca_culture_dutch_4
+					add_building = ca_culture_moors_4
+					add_building = ca_culture_chinese_han_4
+					add_building = ca_culture_arberian_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_feudal = yes
+						}
+					}
+					add_building = ca_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_republic = yes
+						}
+					}
+					add_building = ct_shipyard_4
+					add_building = ct_port_5
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_republic = yes
+						}
+					}
+					add_building = ct_wall_q_5
+					add_building = ct_wall_5
+					add_building = ct_rep_arsenal_3
+					add_building = ct_training_grounds_6
+					add_building = ct_barracks_6
+					add_building = ct_guard_5
+					add_building = ct_marketplace_6
+					add_building = ct_university_3
+					add_building = ct_planned_infrastructure_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_priest = yes
+						}
+					}
+					add_building = tp_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_priest = yes
+						}
+					}
+					add_building = tp_wall_q_5
+					add_building = tp_wall_5
+					add_building = tp_monastery_6
+					add_building = tp_barracks_6
+					add_building = tp_elite_barracks_6
+					add_building = tp_town_6
+					add_building = tp_school_2
+					add_building = tp_monumental_shrines_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						location = {
+							port = yes
+						}
+						owner = {
+							is_tribal = yes
+						}
+					}
+					add_building = tb_shipyard_4
+			}
+			if = {
+					limit = {
+						tier = BARON
+						owner = {
+							is_tribal = yes
+						}
+					}
+					add_building = tb_hillfort_4
+					add_building = tb_market_town_4
+					add_building = tb_defensive_fortifications_4
+					add_building = tb_training_grounds_4
+					add_building = tb_steppe_barracks_4
+					add_building = tb_steppe_stable_4
+					add_building = tb_arsenal_4
+					add_building = tb_culture_saxon_english_4
+					add_building = tb_culture_scottish_4
+					add_building = tb_culture_group_altaic_4
+					add_building = tb_culture_frank_norman_german_4
+					add_building = tb_culture_group_iberian_4
+					add_building = tb_culture_italian_4
+					add_building = tb_culture_hungarian_4
+			}
+			}
+		}
+		}
+}
+}

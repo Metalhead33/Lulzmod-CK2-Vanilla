@@ -1,0 +1,3 @@
+koreangfx = {
+	skin_tone = 1
+}

@@ -1,0 +1,291 @@
+chinese_group = {
+	graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+	alternate_start = {
+		NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		has_alternate_start_parameter = { key = culture value = full_random }
+	}
+
+	han = {
+		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+		secondary_event_pictures = bedouin_arabic
+
+		dynasty_name_first = yes
+		
+		color = { 211 44 44 }
+
+		male_names = {
+			Biao_Biao Báihu_Báihu Baitao_Baitao Bang_Bang Bin_Bin Bingcháng_Bingcháng Bingxun_Bingxun Binwáng_Binwáng Chángfang_Chángfang Chángluo_Chángluo Chéngye_Chéngye Chúnyou_Chúnyou Cao_Cao Cong_Cong Dachuí_Dachuí Dali_Dali Dao_Dao Daosheng_Daosheng Déqín_Déqín Déshéng_Déshéng Déwang_Déwang Fakuí_Fakuí Feiying_Feiying Fuju_Fuju Guifú_Guifú Guiméng_Guiméng Gang_Gang Ganshun_Ganshun Gaochi_Gaochi Han_Han Hánshan_Hánshan Hao_Hao Haorán_Haorán He_He Héng_Héng Hézhen_Hézhen Hóng_Hóng Hóngdá_Hóngdá Hóngzhang_Hóngzhang Houcong_Houcong Houzhao_Houzhao Hu_Hu Jian_Jian Jianshen_Jianshen Jié_Jié Jieshí_Jieshí Jingwei_Jingwei Jun_Jun Juyi_Juyi Kang_Kang Keqiáng_Keqiáng Kunyi_Kunyi Liangzuo_Liangzuo Liánzhong_Liánzhong Luantóng_Luantóng Léichán_Léichán Li_Li Líng_Líng Língfu_Língfu Línzheng_Línzheng Lóngji_Lóngji Míng_Míng Míngzhang_Míngzhang Moruo_Moruo Qiáng_Qiáng Qiubái_Qiubái Quánqi_Quánqi Qí_Qí Qibao_Qibao Qijí_Qijí Qing_Qing Qinglóng_Qinglóng Qingzhao_Qingzhao Qíyu_Qíyu Qízhen_Qízhen Rui_Rui Rénxiao_Rénxiao Ruchang_Ruchang Shichang_Shichang Shicái_Shicái Shikai_Shikai Shimín_Shimín Sen_Sen Si_Si Tiìzhu_Tiìzhu Tíngjian_Tíngjian Wìi_Wìi Wei_Wei Wén_Wén Wu_Wu Wúji_Wúji Wuwei_Wuwei Xian_Xian Xiangrú_Xiangrú Xianshui_Xianshui Xiaoqiáng_Xiaoqiáng Xiuquán_Xiuquán Xuánwu_Xuánwu Xicháo_Xicháo Xingdé_Xingdé Yuán_Yuán Yuánhao_Yuánhao Yáochén_Yáochén Yaowu_Yaowu Yaoxiang_Yaoxiang Yihai_Yihai Ying_Ying Yingqin_Yingqin Yong_Yong Yongchang_Yongchang Yóusong_Yóusong Youtáng_Youtáng Youwéi_Youwéi Yóuxiao_Yóuxiao Youzhu_Youzhu Yujian_Yujian Yunwén_Yunwén Zhanji_Zhanji Zhaolín_Zhaolín Zhen_Zhen Zhongzheng_Zhongzheng Zhuque_Zhuque Zhutóng_Zhutóng Ziqian_Ziqian Zuojing_Zuojing Zaihou_Zaihou Zangma_Zangma Zémín_Zémín Zichéng_Zichéng Zizhong_Zizhong Zongyuán_Zongyuán Zunxu_Zunxu Anquán_Anquán Enbó_Enbó
+		}
+		female_names = {
+			Báilián_Báilián Bao_Bao Beibi_Beibi Bi_Bi Bingbing_Bingbing Chán_Chán Chéng_Chéng Chú_Chú Cui_Cui Cuixiang_Cuixiang Cai_Cai Dai_Dai Dan_Dan Dandan_Dandan Fang_Fang Fangxiang_Fangxiang Feifei_Feifei Feng_Feng Gaowá_Gaowá Hua_Hua Hua_Hua Huán_Huán Huáshan_Huáshan Hui_Hui Huiye_Huiye Huiyin_Huiyin Hao_Hao Hóng_Hóng Jiao_Jiao Jiégìng_Jiégìng Juan_Juan Jingchu_Jingchu Jinglìi_Jinglìi Jingye_Jingye Jú_Jú Kong_Kong Liangyin_Liangyin Liánzi_Liánzi Lán_Lán Léigu_Léigu Liji_Liji Lín_Lín Língmeng_Língmeng Língyu_Língyu Lixiang_Lixiang Meihóng_Meihóng Mìilíng_Mìilíng Meimó_Meimó Mìitián_Mìitián Mengmìi_Mengmìi Míngluó_Míngluó Naiméi_Naiméi Qingé_Qingé Qínqín_Qínqín Rángzi_Rángzi Rénmìi_Rénmìi Shengyi_Shengyi Saifei_Saifei Tianzi_Tianzi Wén_Wén Wénli_Wénli Xiangzi_Xiangzi Xiaolu_Xiaolu Xiaoqing_Xiaoqing Xiaosan_Xiaosan Xiaoting_Xiaoting Xiaoxu_Xiaoxu Xiumin_Xiumin Yuányuán_Yuányuán Yáng_Yáng Yaomeng_Yaomeng Yapíng_Yapíng Yìxiang_Yìxiang Yilún_Yilún Yonglín_Yonglín Yongyí_Yongyí Youxiang_Youxiang Yuméi_Yuméi Yúnshang_Yúnshang Yúnzhu_Yúnzhu Zhengxié_Zhengxié Ziyí_Ziyí Zaomiáo_Zaomiáo Zi_Zi Ai_Ai Aqiú_Aqiú É_É
+		}
+		
+		dynasty_title_names = yes
+		
+		from_dynasty_prefix = ""
+		
+		modifier = default_culture_modifier
+	}
+
+	yue = {
+		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		dynasty_name_first = yes
+		
+		color = { 188 66 66 }
+
+		male_names = {
+			Biu_Biao Baakfú_Báihu Baaktou_Baitao Bong_Bang Ban_Bin Bíngseung_Bingcháng Bíngfan_Bingxun Banwong_Binwáng Seungfong_Chángfang Seunglok_Chángluo Chingyip_Chéngye Seunyau_Chúnyou Chou_Cao Chung_Cong Daaicheui_Dachuí Daailik_Dali Dóu_Dao Dousing_Daosheng Dakkan_Déqín Daksing_Déshéng Dakwong_Déwang Faatfui_Fakuí Feiyéng_Feiying Faugéui_Fuju Gwaifuk_Guifú Gaumung_Guiméng Gong_Gang Gonseun_Ganshun Gouchi_Gaochi Hón_Han Honsaan_Hánshan Hou_Hao Hóuhyin_Haorán Haak_He Hang_Héng Wojan_Hézhen Hung_Hóng Wangdaat_Hóngdá Hungjeung_Hóngzhang Háujúng_Houcong Háujiu_Houzhao Fú_Hu Gin_Jian Ginsam_Jianshen Git_Jié Gaaidaam_Jieshí Jengwai_Jingwei Gwan_Jun Geuiyi_Juyi Hong_Kang Haakgeung_Keqiáng Kwanyat_Kunyi Leungjou_Liangzuo Linjung_Liánzhong Lyuntung_Luantóng Leuisim_Léichán Lik_Li Leng_Líng Lengfú_Língfu Leunjí_Línzheng Lunggei_Lóngji Ming_Míng Mingjeung_Míngzhang Mutyé_Moruo Geung_Qiáng Chaubaak_Qiubái Chyungei_Quánqi Kei_Qí Chatbóu_Qibao Heijat_Qijí Cheng_Qing Chenglung_Qinglóng Chengjiu_Qingzhao Keihyuk_Qíyu Keijan_Qízhen Yeui_Rui Yanhaau_Rénxiao Yúcheung_Ruchang Saicheung_Shichang Saichoi_Shicái Saihói_Shikai Saiman_Shimín Sam_Sen Si_Si Titchyú_Tiìzhu Tinggin_Tíngjian Wái_Wìi Wai_Wei Man_Wén Móu_Wu Mougei_Wúji Móuwai_Wuwei Yín_Xian Seungyu_Xiangrú Sinséui_Xianshui Síugeung_Xiaoqiáng Sauchyun_Xiuquán Yunmóu_Xuánwu Sikchiu_Xicháo Singdak_Xingdé Yun_Yuán Yunhou_Yuánhao Yiusan_Yáochén Yiumóu_Yaowu Yiuseung_Yaoxiang Yíhói_Yihai Ying_Ying Yingyam_Yingqin Yúng_Yong Wíngcheung_Yongchang Yausung_Yóusong Yautong_Youtáng Yáuwai_Youwéi Yaugaau_Yóuxiao Yaujo_Youzhu Yutgin_Yujian Wánman_Yunwén Jimgei_Zhanji Jiuleun_Zhaolín Jan_Zhen Jungjeng_Zhongzheng Jyujeuk_Zhuque Juktung_Zhutóng Jíhim_Ziqian Jóging_Zuojing Jóiháu_Zaihou Jongmá_Zangma Jaakman_Zémín Jiching_Zichéng Jijung_Zizhong Jungyun_Zongyuán Jeunguk_Zunxu Ngonchyun_Anquán Yanba_Enbó
+		}
+		female_names = {
+			Baaklin_Báilián Bóu_Bao Buibat_Beibi Bik_Bi Bingbing_Bingbing Sim_Chán Cháang_Chéng Cho_Chú Cheui_Cui Seuiheung_Cuixiang Chói_Cai Doi_Dai Daan_Dan Daandaan_Dandan Fong_Fang Fongheung_Fangxiang Feifei_Feifei Fung_Feng Gouwa_Gaowá Waa_Hua Fa_Hua Waan_Huán Fasin_Huáshan Wai_Hui Faiye_Huiye Waiyam_Huiyin Hóu_Hao Gung_Hóng Giu_Jiao Aatgáng_Jiégìng Gyun_Juan Jingcho_Jingchu Jingleui_Jinglìi Jingyip_Jingye Guk_Jú Hung_Kong Leungyam_Liangyin Linjí_Liánzi Laam_Lán Leuigú_Léigu Láihchán_Liji Leun_Lín Lingmung_Língmeng Lingyuk_Língyu Léiheung_Lixiang Muigung_Meihóng Méiling_Mìilíng Meimo_Meimó Méidin_Mìitián Mungméi_Mengmìi Minglo_Míngluó Noimui_Naiméi Chengngo_Qingé Kankan_Qínqín Jóngjí_Rángzi Yanméi_Rénmìi Singyi_Shengyi Choifei_Saifei Tinjí_Tianzi Man_Wén Manlai_Wénli Héungjí_Xiangzi Síulou_Xiaolu Híuhing_Xiaoqing Síusaan_Xiaosan Síutíng_Xiaoting Híuyuk_Xiaoxu Saumán_Xiumin Yunyun_Yuányuán Yeung_Yáng Yiumung_Yaomeng Apeng_Yapíng Yéhseung_Yìxiang Yatleun_Yilún Wínglam_Yonglín Yúngyi_Yongyí Yauheung_Youxiang Yukmui_Yuméi Wanseung_Yúnshang Wanjyu_Yúnzhu Jengche_Zhengxié Jíyi_Ziyí Jóumiu_Zaomiáo Jí_Zi Ngoi_Ai Ákau_Aqiú Ngo_É
+		}
+		
+		dynasty_title_names = yes
+		
+		from_dynasty_prefix = ""
+		
+		modifier = default_culture_modifier
+	}
+}
+korean = {
+	graphical_cultures = { koreangfx chinesegfx mongolgfx indiangfx muslimgfx }
+
+	joseon = {
+		graphical_cultures = { koreangfx chinesegfx mongolgfx indiangfx muslimgfx }
+		dynasty_name_first = yes
+		
+		color = { 166 88 88 }
+		
+		male_names = {
+			Aeru An Anjang Anwon Aranbul Asin
+			Baekgo Baekgu Balgi Bangnu Baqi
+			Beop Biryu Biyu Bo Bobang Bogu
+			Bojang Bojeong Boksin Bongsang
+			Bunno Bunseo Buru
+			Chadae Chaekgye Changbalga Chimnyu
+			Chogo Chumo Chungsang Chwijin
+			Daemusin Daesung Daeso Daewon
+			Damdeok Dangun Dapbu Daru Dochim
+			Dodu Dojeol Dojin Dongcheon
+			Dongmyeongseong Dongseong Dorihaeng
+			Duro
+			Eojiji Eosu Eulbul Eulpaso
+			Faqi
+			Gaero Gaeru Gaesomun Gan Gang
+			Ganwigeo Geonhwang Geonmu Georyeon
+			Geumwa Gija Giru Go Goengrim Gogugwon
+			Gogugyang Gogukcheon Goi Gu Gubu
+			Guisin Gukjo Gung Gusu Gwanggaeto
+			Gwanghyeon Gye Gyebaek Gyeong
+			Gyeonhwang Gyesu Gyoche
+			Habaek Hae Haemyeong Heummu Heung
+			Heungan Hoa Hobang Hodong Hui Hwanin
+			Hwanung Hwayeo Hye Hyeon Hyeonmyeong
+			Hyeonseok Hyeopbo Hyezin
+			Ijin Ik Inseon Insu
+			Jaesa Jan Jang Jangsu Jasin Jeong
+			Jeonggi Jeongin Jeongu Jeongui Jeonji
+			Jinsa Jipsa Jipshin Joyeong Juda
+			Jumong Jun Jungcheon Jungsang
+			Manchun Mangnae Mangniji Manhwa Mari
+			Maryeo Micheon Minjung Mobon Mojeom
+			Mosu Mu Muhyul Mun Mundeok Munhyu
+			Munja Munju Munye Muryeong Muye
+			Namgeon Nammu Namsaeng Namsan Nanga
+			Nanwu Naun Nuri
+			O Oi Onjo
+			Pung Pyeongseong Pyeongwon
+			Rim
+			Saban Saekju Sagi Samgeun Sangbu
+			Sanghae Sangyeong Sansang Sapsiru
+			Saseong Sayu Seocheon Seon Seong
+			Shamen Sindae Sinmun So Soe Sogo Su
+			Suseong
+			Tabal Taejo Tang
+			U Ubul Ugeo Uija Uiryeo Uira Uisin
+			Un Ung Uwigeo
+			Wanggeom Wideok Wigung Wigutae Wihae
+			Wiman Won Wonui Wutae
+			Yabal Yagu Yang Yangno Yangseong
+			Yangwon Yanyou Yeojin Yeon Yeonbul
+			Yeong Yeongnyu Yeongsuk Yeongyang
+			Yeonsu Yeoul Yiryeon Yu Yung Yuri
+			Yuryu Yusa
+			Zenko
+			Nagil Narauram Namoo Dal Miteum Beodeul Bitgaram Saem Eutteum Hangyeol Hangil Himchan
+		}
+		female_names = {
+			Chihui
+			Habaek Hwahui Hweonhwa
+			Jeonghye Jeonghyo
+			Nakrang
+			Seodong Seono Seryu Soya
+			Wuihwa
+			Ye Yeorang Yuhwa Yul
+			Gaeul Gyeowool Goeun Gureum Guseul Kkot Narae Nari Nabom Nabi Nabit Noeul Darae Dasom Dalrae Dambi Raon Rawoom Mari Maeum Mirae Mindeulle Bada Byeol Bom Boda Bora Boram Bitna Bi Sarang Sandara Saeron Saerom Saebyeok Saetbyeol Sora Sori Ahra Ahrong Ahreum Ahri Yeoreum Iseul Joeun Chorong Hana Hanui
+		}
+		
+		founder_named_dynasties = yes
+		dynasty_title_names = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	samhan = {
+		graphical_cultures = { koreangfx chinesegfx mongolgfx indiangfx muslimgfx }
+		dynasty_name_first = yes
+		
+		color = { 177 99 99 }
+		
+		male_names = {
+			Nagil Narauram Namoo Dal Miteum Beodeul Bitgaram Saem Eutteum Hangyeol Hangil Himchan
+			Adalla Ado Aejang Agung Ajagae
+			Alcheon Alji Alpyeong Anpyeong Asin
+			Baek Baekban Baekjeong Bak Bangul
+			Beolhyu Beop Beopheung Bidam Biryu
+			Biyu Bogo Bojong Bokho Bokseung
+			Boksin Bu Bunjil Bunseo Busik
+			Chachaung Chaekgye Chang Cheomhae
+			Chim Chimnyu Chiwon Choe Chogo Chong
+			Chulchung Chun Chunchu Chungsang
+			Chwihang Chwihui
+			Dae Daemun Daeseoji Damyang Damyuk
+			Dang Daru Do Dochim Dongnyeon Dongryun
+			Dongseong Donyeong Doseolji
+			Eo Eum
+			Gaejimun Gaero Gaeru Gaewon Gasil Geo
+			Geodeok Geodeung Geojilmi Geon
+			Geoseogan Geumnim Geumsang Geumseong
+			Geunchogo Geungusu Girim Giru Goi Gong
+			Gu Gubu Gudo Guhyeong Guisin Gukban
+			Gusu Gwanchang Gwang Gwangpyeong
+			Gwisan Gye Gyebaek Gyeomji Gyeong
+			Gyeongsa Gyeongsun Gyeyang
+			Hae Haji Hajong Heon Heonchang Heulhae
+			Heumsun Hogong Horim Hwaui Hwon Hyang
+			Hye Hyecho Hyeokgeose Hyeon Hyojong
+			Hyosun
+			Ichadon Ikhyeon Iljinasi Ilseong Im
+			Imgeol Imyeong Ingyeom Inmun Inoe
+			Intae Ipjong Isageum Isipum
+			Jabi Jae Jaegi Jang Jasin Jeon Jeong
+			Jeongin Jeonji Jesang Jeung Jigyeong
+			Jijeung Jilji Jima Jimyeong Jinheung
+			Jinji Jinpyeong Jinpyo Jinsa Jipsa
+			Jipshin Jobun Jwaji
+			Kyung Kyungjik Kyupo
+			Madeok Mamo Mapum Michu Mijinbu
+			Milseong Misaeng Misaheun Modae Modo
+			Mojam Mu Mudo Muduk Mugang Mugwang
+			Munjong Munju Munmu Munwang Muryeok
+			Muryeong Muyeol Myeong Myeongjang
+			Naehae Naemul Naero Namhae Nocha
+			Noribu Nulji
+			Okjong Onjo
+			Pasa Pumil Pung Pyeongwon
+			Reepjong
+			Saban Sabu Sada Sadaham Sama Samgeol
+			Samgeun Sangyeong Sejin Sejo Sejong
+			Seo Seodong Seohyun Seol Seolwon Seon
+			Seong Seonghan Seongmyeong Seupbo
+			Silseong Sinmun Sobeolgong Soji Sogo
+			Sosurim Suchun Sujong Sung Suro Suryu
+			Taejong Taesung Talhae
+			Uichang Uija Uisang Ukbo Uro
+			Wideok Wihong Wolgwang Won Woncheuk
+			Wongwang Wonhyo Wonsul Wonto Woo
+			Yang Yanyou Yeo Yeom Yeon Yeong
+			Yeongeung Yeonghae Yeongpung Yo Yong
+			Yongchun Yongsu Yongshu Yu Yung Yuri
+			Yurye Yushin
+		}
+		female_names = {
+			Aerye Aesong Aji Ahyo Alyeong Ani
+			Bangwon Banya Boban Bohwa Bokhilgu Boksu
+			Cheonmyeong
+			Deokman
+			Frarang
+			Gwi Gwiin Gyea Gyehwa
+			Hogu Horin Hwangok Hye Hyo
+			Indeok Inu Inyoung
+			Jaeui Jeongan Jeonghyeon Jeongsin Jeongso
+			Jeongui Jido Jindeok Jinseong Jiso
+			Manmyeong Mano Maya Mishil Mojeong
+			Munjeong Munmyeong Munui Myodo
+			Naerye Nangnang Nanya
+			Okjin Ongmo
+			Sa Sado Sagi Samyeop Sang Sangchim Saseong
+			Saso Seondeok Seonhwa Seungman Shinu Sikdo
+			Sin Soheon Soyong Suk Sukui Sukwon
+			Uiseong Unje
+			Wolmyeong Wongyeong
+			Yeong
+			Gaeul Gyeowool Goeun Gureum Guseul Kkot Narae Nari Nabom Nabi Nabit Noeul Darae Dasom Dalrae Dambi Raon Rawoom Mari Maeum Mirae Mindeulle Bada Byeol Bom Boda Bora Boram Bitna Bi Sarang Sandara Saeron Saerom Saebyeok Saetbyeol Sora Sori Ahra Ahrong Ahreum Ahri Yeoreum Iseul Joeun Chorong Hana Hanui
+		}
+		
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+		dynasty_title_names = yes
+	}
+}
+
+
+japonic = {
+		graphical_cultures = { koreangfx chinesegfx mongolgfx indiangfx muslimgfx }
+
+	japanese = {
+		graphical_cultures = { koreangfx chinesegfx mongolgfx indiangfx muslimgfx }
+		dynasty_name_first = yes
+
+		color = { 199 121 121 }
+		
+		modifier = default_culture_modifier
+		dynasty_title_names = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		male_names = {
+			Aki Akira Atsushi Daichi Daisuke Eiji Fumio Gorou Hachiro Hajime Haru Haruo Hideaki Hideki Hideo Hikaru Hiro Hiroaki Hiroshi Hiroyuki Hisao Hisashi Hisoka Hitoshi Hotaka Ichirou Isamu Isao Iwao Izanagi Jirou Jun Junichi Jurou Kaede Katashi Katsu Katsumi Katsuo Katsuro Kazuhiko Kazuhiro Kazuki Kazuo Kei Keiichi Keiji Ken Ken'ichi Kenji kenshin Kenta Kichirou Kin Kiyoshi Kou Kohaku Koichi Koji Kunio Kuro Kurou Kyou Madoka Makoto Mamoru Manabu Masa Masaaki Masahiko Masahiro Masaki Masanori Masao Masaru Masashi Masato Masayoshi Masayuki Masumi Michi Michio Mikio Minori Minoru Mitsuo Mitsuru Nao Naoki Noboru Nobu Nobuyuki Nori Norio Orochi Osamu Raiden Rokuro Ryo Ryota Ryuu Saburo Sadao Satoru Satoshi Seiichi Seiji Shichiro Shig Shigeo Shigeru Shin Shin'ichi Shinji Shiro Shoichi Shoji Sho Shuichi Shuji Sora Susumu Tadao Tadashi Takahiro Takao Takashi Takayuki Takehiro Takeo Takeshi Takumi Tamotsu Taro Tatsuo Tatsuya Teruo Tetsuo Tetsuya Tomio Toru Toshi Toshiaki Toshio Toshiyuki Tsuneo Tsutomu Tsuyoshi Yasuhiro Yasuo Yasushi Yoichi Yori Yoshi Yoshiaki Yoshihiro Yoshikazu Yoshinori Yoshito Yoshiyuki Yuichi Yuji Yuki Yukio Yutaka Yuu Yuudai
+		}
+
+		female_names = {
+			Ai Aika Aiko Aimi Akane Akemi Aki Akiko Akira Amaterasu Amaya Aoi Arisu Asami Asuka Atsuko
+Avaron Aya Aayaka Ayako Ayame Ayano Ayumi Azumi Bunko Chiasa Chie Chieko Chiharu Chika Chikako Chinatsu Chiyo
+Hiyoko Cho Chou Eiko Emi Emiko Eri Etsuko Fuji Fumiko Gina Hana Hanako Haru Haruka Haruki Haruko Harumi Hideko
+Hikari Hikaru Hiro Hiroko Hiromi Hisako Hisoka Hitomi Hoshi Hotaru Izanami Izumi Jun Junko Kaede Kame Kameko Kameyo
+Kamiko Kaori Kaoru Kasumi Katsumi Kayo Kazue Kazuko Kazumi Kei Keiko Kiku Kimi Kimiko Kin Kiyoko Kiyomi Ko Kohaku
+Kotone Kou Kumiko Kyo Kyoko Kyou Madoka Mai Maiko Maki Makoto Mana Manami Mari Mariko Masa Masako Masami Masumi 
+Masuyo Mayumi Megumi Mi Michi Michiko Midori Mieko Miho Mika Miki Minako Minori Misaki Mitsuko Mitsuru Miwa
+Miyako Miyoko Miyuki Mizuki Moe Momo Momoe Momoko Moriko Nana Nao Naoki Naoko Naomi Natsuko Natsumi Nobuko Nori 
+Noriko Ran Rei Reiko Ren Rie Rika Riko Rin Ryo Ryoko Sachiko Saki Sakiko Sakura Sango Sayuri Setsuko Shig Shigeko Shika Shinju Shiori Shizuka Shizuko Sora Sumiko Susumu Suzu Suzume Takako Takara Tamiko Teruko Tomiko Tomoko Toshiko Ttsukiko Ume Umeko Usagi Yasu Yasuko Yoko Yori Yoshi Yoshie Yoshiko Yuka Yuki Yukiko Yuko Yumi Yumiko Yuriko 
+
+		}
+		dynasty_title_names = yes
+		from_dynasty_prefix = ""
+		modifier = default_culture_modifier
+	}
+}

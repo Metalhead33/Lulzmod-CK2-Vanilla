@@ -1,0 +1,78 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_province_settlement_frame_koreangfx"
+		texturefile = "gfx\\interface\\province_settlement_frame_koreangfx.dds"
+	}
+	spriteType = {
+		name = "GFX_province_capital_settlement_frame_koreangfx"
+		texturefile = "gfx\\interface\\province_capital_settlement_frame_china.dds"
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_koreangfx"
+		texturefile = "gfx\\interface\\placeholder_castle_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_empty_koreangfx"
+		texturefile = "gfx\\interface\\placeholder_empty_tribal_china.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_koreangfx"
+		texturefile = "gfx\\interface\\placeholder_tribal_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_koreangfx"
+		texturefile = "gfx\\interface\\placeholder_city_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_koreangfx_westerngfx"
+		texturefile = "gfx\\interface\\placeholder_temple_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_koreangfx_jewishgfx"
+		texturefile = "gfx\\interface\\placeholder_temple_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_koreangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_castle_china_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_koreangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_tribal_china_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_koreangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_city_china_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_koreangfx_indiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_koreangfx_southindiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_china.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+}

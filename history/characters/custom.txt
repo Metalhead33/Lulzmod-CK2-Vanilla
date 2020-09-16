@@ -1,0 +1,3157 @@
+1000260786 = {
+	name="Zsolt"
+	dynasty=1100290905
+	dna="cfeai0bad00"
+	#properties="rd00fk"
+	properties="rd00hk"
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=16
+	religion="catholic"
+	culture="hungarian"
+	trait=midas_touched
+	trait=slavic_leader
+	trait=hedonist
+	trait=genius
+	trait=humble
+	trait=lustful
+	trait=drunkard
+	trait=gluttonous
+	trait=honest
+	trait=ambitious
+	trait=crusader
+	trait=sympathy_islam
+	trait=kind
+	trait=guilds_trait_master
+	1042.6.26={
+		# Real birth date: 1992.06.26
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = hungarian }
+		add_pressed_claim = k_hungary
+		add_pressed_claim = k_croatia
+		add_pressed_claim = d_syrmia
+		add_pressed_claim = c_syrmia
+		add_pressed_claim = d_macva
+		add_pressed_claim = c_macva
+		add_pressed_claim = c_belgrade
+		add_pressed_claim = c_branicevo
+		effect = { add_pressed_claim = k_hungary }
+		effect = { add_pressed_claim = k_croatia }
+		effect = { add_pressed_claim = d_syrmia }
+		effect = { add_pressed_claim = c_syrmia }
+		effect = { add_pressed_claim = d_macva }
+		effect = { add_pressed_claim = c_macva }
+		effect = { add_pressed_claim = c_belgrade }
+		effect = { add_pressed_claim = c_branicevo }
+		effect = { add_character_modifier = {
+			name = crazy_cat_lord
+			duration = -1
+		} }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260787 }
+		effect = { add_friend=1000260788 }
+		effect = { add_friend=1000260789 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260790 }
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260794 }
+		effect = { add_friend=1000260795 }
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260797 }
+		effect = { add_friend=1000260798 }
+		effect = { add_friend=1000260799 }
+		effect = { add_friend=1000260800 }
+		effect = { add_friend=1000260801 }
+		effect = { add_friend=1000260802 }
+		effect = { add_friend=1000260803 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260805 }
+		effect = { add_friend=1000260806 }
+		effect = { add_friend=1000260807 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260787 = {
+	name="Attila"
+	dynasty=1100290906
+	dna="cghf00bbd00"
+	#properties="vh0aak"
+	properties="vh0ahk"
+	martial=10
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	secret_religion="tengri_pagan"
+	culture="hungarian"
+	trait=midas_touched
+	trait=tengri_leader
+	trait=master_warrior
+	trait=gardener
+	trait=fair
+	trait=shrewd
+	trait=diligent
+	trait=gregarious
+	trait=humble
+	trait=ambitious
+	1041.12.2={
+		# Real birth date: 1991.12.2
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = hungarian }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260788 = {
+	name="Márton"
+	dynasty=1100290907
+	dna="aieh00eb0b0"
+	#properties="vb0jak"
+	properties="vb0jhk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="buddhist"
+	secret_religion="tengri_pagan"
+	culture="hungarian"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=tengri_warrior
+	trait=master_warrior
+	trait=genius
+	trait=erudite
+	trait=sympathy_christendom
+	trait=sympathy_islam
+	trait=sympathy_pagans
+	1042.8.29={
+		# Real birth date: 1992. augusztus 29.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = hungarian }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260794 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260789 = {
+	name="Emre"
+	dynasty=1100290909
+	dna="cihci0eh000"
+	properties="fh00bk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="orthodox"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=crusader
+	trait=heavy_infantry_leader
+	trait=master_of_flame
+	trait=master_warrior
+	trait=genius
+	trait=erudite
+	trait=strong
+	trait=fair
+	trait=robust
+	trait=chaste
+	trait=duelist
+	trait=temperate
+	trait=depressed
+	1050.2.12={
+		# Real birth date: 2000. február 12.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = greek }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260794 }
+		effect = { add_friend=1000260801 }
+		effect = { add_friend=1000260798 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260790 = {
+	name="Cadvan"
+	dynasty=1100290915
+	dna="c0feh0f0fb0"
+	properties="fm000k"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="baltic_pagan"
+	culture="welsh"
+	trait=brilliant_strategist
+	trait=romuvas_own
+	trait=baltic_leader
+	trait=inspiring_leader
+	trait=levy_coordinator
+	trait=master_warrior
+	trait=zealous
+	trait=chaste
+	trait=fair
+	trait=theologian
+	1050.2.12={
+		# Real birth date: 2000. február 12.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = welsh }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260794 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260791 = {
+	name="Éadweard"
+	dynasty=1100290914
+	dna="bbhha0hafa0"
+	properties="j00gaa"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="norse_pagan"
+	culture="saxon"
+	trait=brilliant_strategist
+	trait=norse_leader
+	trait=valhalla_bound
+	trait=viking
+	trait=levy_coordinator
+	trait=master_warrior
+	trait=hunter
+	trait=zealous
+	trait=erudite
+	trait=brave
+	trait=strong
+	trait=robust
+	1040.1.30={
+		# Real birth date: Unknown year, Januarry 30.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = norse }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260792 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260792 = {
+	name="Petter"
+	dynasty=1100290912
+	dna="cchda0hdab0"
+	properties="jf0gak"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="swedish"
+	trait=brilliant_strategist
+	trait=norse_leader
+	trait=rough_terrain_leader
+	trait=master_warrior
+	trait=sympathy_pagans
+	trait=sympathy_indian
+	trait=hunter
+	trait=viking
+	trait=cynical
+	trait=brave
+	trait=erudite
+	trait=trusting
+	trait=fair
+	trait=strong
+	trait=robust
+	1040.1.30={
+		# Real birth date: Unknown year, Januarry 30.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = norse }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260801 }
+		effect = { add_friend=1000260788 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260802 }
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260800 }
+		effect = { add_friend=1000260805 }
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260790 }
+		effect = { add_friend=1000260793 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260793 = {
+	name="Adrien"
+	dynasty=1100290919
+	dna="ccfdf0gccd0"
+	properties="qf0jak"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="hellenic_pagan"
+	culture="catalan"
+	trait=brilliant_strategist
+	trait=hellenic_leader
+	trait=ares_own
+	trait=master_of_flame
+	trait=master_warrior
+	trait=impaler
+	trait=gardener
+	trait=erudite
+	trait=wroth
+	trait=diligent
+	trait=gluttonous
+	trait=greedy
+	trait=ambitious
+	trait=cruel
+	trait=sympathy_indian
+	1048.1.30={
+		# Real birth date: 1998. február 12.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = catalan }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260794 }
+		effect = { add_friend=1000260803 }
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260790 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260789 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260794 = {
+	name="Roxana"
+	female = yes
+	dynasty=1100290908
+	dna="ccfff0bcbb0"
+	properties="qe0j0k"
+	martial=3
+	diplomacy=5
+	intrigue=10
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="orthodox"
+	culture="romanian"
+	trait=elusive_shadow
+	trait=fair
+	trait=kind
+	trait=regular_tits
+	trait=groomed
+	trait=gardener
+	trait=temperate
+	trait=humble
+	trait=honest
+	1048.2.5={
+		# Real birth date: 1998. február 5.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = romanian }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260795 = {
+	name="Owen"
+	dynasty=1100290918
+	dna="bhifc0ebbd0"
+	properties="im0c0k"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="sunni"
+	culture="english"
+	trait=mastermind_theologian
+	trait=mujahid
+	trait=physician
+	trait=theologian
+	trait=sympathy_christendom
+	trait=genius
+	trait=shrewd
+	trait=erudite
+	trait=guilds_trait_master
+	trait=humble
+	trait=chaste
+	trait=temperate
+	trait=faqih
+	trait=hafiz
+	trait=hajjaj
+	trait=ashari
+	1047.9.3={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = english }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260796 = {
+	name="Ömer"
+	dynasty=1100290910
+	dna="0aifc0eba00"
+	properties="ii0chk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="sunni"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=mujahid
+	trait=master_of_flame
+	trait=master_warrior
+	trait=hunter
+	trait=temperate
+	trait=chaste
+	1047.9.3={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = cuman }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260797 }
+		effect = { add_friend=1000260801 }
+		effect = { add_friend=1000260807 }
+		effect = { add_friend=1000260806 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260802 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260797 = {
+	name="Volkan"
+	dynasty=1100290911
+	dna="0iidc0gba00"
+	properties="ic0c0k"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="sunni"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=mujahid
+	trait=sapper
+	trait=master_of_flame
+	trait=master_warrior
+	trait=impaler
+	trait=kind
+	trait=humble
+	trait=gregarious
+	trait=honest
+	1047.9.3={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = serbian }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260807 }
+		effect = { add_friend=1000260806 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260802 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260798 = {
+	name="Rohan"
+	dynasty=1100290916
+	dna="bdci00hba00"
+	properties="vd0afk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=10
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="hindu"
+	culture="marathi"
+	trait=midas_touched
+	trait=socializer
+	trait=brahmin
+	trait=genius
+	trait=robust
+	trait=sympathy_christendom
+	trait=cynical
+	trait=erudite
+	trait=guilds_trait_master
+	trait=lustful
+	trait=gluttonous
+	trait=proud
+	trait=eagle_warrior
+	trait=zun_leader
+	1047.9.3={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = marathi }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260799 = {
+	name="Bani"
+	dynasty=1100290920
+	dna="bdci00hbc00"
+	properties="vl0afk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="orthodox"
+	culture="assyrian"
+	trait=brilliant_strategist
+	trait=holy_warrior
+	trait=inspiring_leader
+	trait=crusader
+	trait=master_warrior
+	trait=duelist
+	trait=zealous
+	trait=chaste
+	trait=humble
+	trait=honest
+	1045.1.18={
+		# Real birth date: 1995. január 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = levantine_arabic }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260800 = {
+	name="Leonardo"
+	dynasty=1100290917
+	dna="cgdf00bbb00"
+	properties="vg0a0k"
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="portuguese"
+	trait=grey_eminence
+	trait=socializer
+	trait=fair
+	trait=genius
+	trait=temperate
+	trait=lustful
+	trait=gregarious
+	trait=cynical
+	1049.1.24={
+		# Real birth date: 1999. január 24.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = portuguese }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260789 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260794 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260801 = {
+	name="Emil"
+	dynasty=1100290913
+	dna="bhjlg0cgaa0"
+	properties="wi0cgk"
+	martial=14
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="swedish"
+	trait=mastermind_theologian
+	trait=theologian
+	trait=holy_warrior
+	trait=master_warrior
+	trait=inspiring_leader
+	trait=crusader
+	trait=genius
+	trait=one_eyed
+	trait=zealous
+	trait=chaste
+	trait=celibate
+	trait=patient
+	trait=kind
+	trait=humble
+	trait=diligent
+	trait=brave
+	trait=just
+	1048.7.1={
+		# Real birth date: 1998. június 1.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = greek }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260802 = {
+	name="Sedat"
+	dynasty=1100290922
+	dna="bd0fb0g0000"
+	properties="ue00gk"
+	martial=10
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="sunni"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=mujahid
+	trait=logistics_expert
+	trait=master_of_flame
+	trait=sapper
+	trait=levy_coordinator
+	trait=master_warrior
+	trait=impaler
+	trait=sympathy_pagans
+	trait=robust
+	trait=strong
+	trait=gluttonous
+	trait=is_fat
+	trait=cruel
+	trait=lustful
+	1037.4.19={
+		# Real birth date: 1987. április 19.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = persian }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260807 }
+		effect = { add_friend=1000260806 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260797 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260803 = {
+	name="Rania"
+	female = yes
+	dynasty=1100290921
+	dna="0bjfh0c0000"
+	properties="ue000k"
+	martial=2
+	diplomacy=10
+	intrigue=10
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="west_african_pagan"
+	culture="maghreb_arabic"
+	trait=naive_appeaser
+	trait=seductress
+	trait=cynical
+	trait=fair
+	trait=groomed
+	trait=sympathy_pagans
+	trait=big_tits
+	trait=bombshell
+	1048.2.11={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = maghreb_arabic }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260804 = {
+	name="Daniel"
+	dynasty=1100290923
+	martial=10
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="tengri_pagan"
+	culture="norse"
+	trait=brilliant_strategist
+	trait=logistics_expert
+	trait=master_of_flame
+	trait=sapper
+	trait=levy_coordinator
+	trait=master_warrior
+	trait=impaler
+	1048.2.11={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = berber }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260805 = {
+	name="Henrik"
+	dynasty=1100290924
+	dna="cdef00bb000"
+	properties="eg0c0k"
+	martial=15
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="shiite"
+	culture="arberian"
+	trait=brilliant_strategist
+	trait=holy_warrior
+	trait=master_warrior
+	trait=inspiring_leader
+	trait=tengri_leader
+	trait=mujahid
+	trait=zealous
+	trait=brave
+	trait=cruel
+	trait=impaler
+	trait=scarred_high
+	trait=possessed
+	1048.4.26={
+		# Real birth date: Unknown április 26.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = arberian }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260806 = {
+	name="Kaan"
+	dynasty=1100290925
+	dna="b0ghi0ab000"
+	properties="xh0ebk"
+	martial=15
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="sunni"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=tengri_leader
+	trait=mujahid
+	trait=cynical
+	trait=sympathy_pagans
+	trait=gluttonous
+	trait=gregarious
+	trait=content
+	1047.6.18={
+		# Real birth date: 1997. június 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = marathi }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260807 }
+		effect = { add_friend=1000260802 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260797 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260807 = {
+	name="Ismail"
+	dynasty=1100290926
+	dna="biagi0fb000"
+	properties="s00kfk"
+	martial=15
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="kharijite"
+	culture="bolghar"
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=tengri_leader
+	trait=mujahid
+	trait=cynical
+	trait=impaler
+	trait=possessed
+	trait=slothful
+	1047.6.18={
+		# Real birth date: 1997. június 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = bolghar }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260806 }
+		effect = { add_friend=1000260802 }
+		effect = { add_friend=1000260804 }
+		effect = { add_friend=1000260797 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260808 = {
+	name="Floris"
+	dynasty=1100290927
+    dna="cdgdd0cch00"
+    properties="ag0k0k"
+	martial=10
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="dutch"
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=pirate
+	trait=fair
+	trait=strong
+	trait=duelist
+	1050.1.30={
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = dutch }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260792 }
+		effect = { add_friend=1000260795 }
+		effect = { add_friend=1000260800 }
+		effect = { add_friend=1000260805 }
+		effect = { add_friend=1000260789 }
+		effect = { add_friend=1000260791 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260790 }		
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260809 = {
+	name="Roland"
+	dynasty=1100290928
+    dna="0cfcg0a0ed0"
+    properties="ln0efk"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="norse_pagan"
+	culture="norse"
+	trait=brilliant_strategist
+	trait=sapper
+	trait=master_of_flame
+	trait=norse_leader
+	trait=valhalla_bound
+	trait=master_warrior
+	trait=viking
+	trait=cynical
+	trait=strong
+	trait=duelist
+	trait=brave
+	trait=ambitious
+	trait=patient
+	trait=shrewd
+	1040.8.22={
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = dutch }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260810 = {
+	name="Anja"
+	female = yes
+	dynasty=1100290929
+	dna="0big00fba00"
+	properties="md0k0k"
+	martial=3
+	diplomacy=5
+	intrigue=10
+	stewardship=3
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="croatian"
+	trait=grey_eminence
+	trait=fair
+	trait=kind
+	trait=regular_tits
+	trait=groomed
+	trait=cynical
+	trait=temperate
+	trait=honest
+	trait=charitable
+	1040.8.19={
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = croatian }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260791 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260811 = {
+	name="Gustavo"
+	dynasty=1100290930
+    dna="bahb00caec0"
+    properties="q000ak"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="portuguese"
+	trait=mastermind_theologian
+	trait=theologian
+	trait=crusader
+	trait=erudite
+	trait=zealous
+	trait=chaste
+	trait=temperate
+	trait=charitable
+	trait=diligent
+	trait=patient
+	trait=kind
+	trait=humble
+	1040.8.22={
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = italian }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260812 = {
+	name="Pedro"
+	dynasty=1100290931
+    dna="babd000aac0"
+    properties="qc00ak"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="karaite"
+	culture="sephardi"
+	trait=mastermind_theologian
+	trait=zun_leader
+	trait=shaddai
+	trait=theologian
+	trait=erudite
+	trait=sympathy_christendom
+	trait=sympathy_islam
+	trait=sympathy_zoroastrianism
+	trait=chaste
+	trait=temperate
+	trait=charitable
+	trait=diligent
+	trait=patient
+	trait=kind
+	trait=humble
+	1050.5.17={
+		# Real birth date: 2001. január 30.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { set_graphical_culture = levantine_arabic }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260789 }
+		effect = { add_friend=1000260803 }
+		effect = { add_friend=1000260793 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260813 = {
+	name="Henry"
+	dynasty=1100290932
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="english"
+	trait=brilliant_strategist
+	trait=master_of_flame
+	trait=master_warrior
+	trait=erudite
+	trait=sympathy_islam
+	trait=sympathy_zoroastrianism
+	trait=cruel
+	trait=paranoid
+	trait=stubborn
+	trait=scholar
+	1044.7.16={
+		# Real birth date: 1994. július 16.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260811 }
+		effect = { add_friend=1000260795 }
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260805 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260814 = {
+	name="Bálint"
+	dynasty=1100290934
+    dna="cdgif0cbh00"
+    properties="sn0g0k"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="hungarian"
+	trait=brilliant_strategist
+	trait=master_of_flame
+	trait=master_warrior
+	trait=erudite
+	trait=sympathy_islam
+	trait=crusader
+	trait=strong
+	trait=fair
+	trait=groomed
+	trait=robust
+	trait=duelist
+	1037.6.23={
+		# Real birth date: 1987. június 23.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260794 }
+		effect = { add_friend=1000260789 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260815 = {
+	name="Berke"
+	dynasty=1100290933
+    dna="cfeff0cb000"
+    properties="sn0g0k"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="tengri_pagan"
+	culture="turkish"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=tengri_warrior
+	trait=master_warrior
+	trait=erudite
+	trait=strong
+	trait=fair
+	trait=genius
+	trait=shrewd
+	trait=robust
+	trait=duelist
+	trait=proud
+	1043.9.8={
+		# Real birth date: 1993. szeptember 8.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = croatian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260800 }
+		effect = { add_friend=1000260789 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260816 = {
+	name="Viléna"
+	female=yes
+	dynasty=1100290935
+    dna="cjgef0cba00"
+    properties="se0g0k"
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="hungarian"
+	trait=thrifty_clerk
+	trait=fair
+	trait=proud
+	trait=shy
+	trait=groomed
+	trait=gardener
+	trait=cynical
+	1038.8.19={
+		# Real birth date: 1988. augusztus 19.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = russian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260800 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260817 = {
+	name="Nikola"
+	dynasty=1100290936
+    dna="cdced0cba00"
+    properties="sj0g0k"
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="orthodox"
+	culture="serbian"
+	trait=crusader
+	trait=mastermind_theologian
+	trait=theologian
+	trait=erudite
+	trait=zealous
+	trait=fair
+	trait=genius
+	trait=sturdy
+	1042.5.24={
+		# Real birth date: 1992. május 24.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = serbian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260800 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260818 = {
+	name="Raffaello"
+	dynasty=1100290937
+    dna="cbhbd0cbad0"
+    properties="sf0gjk"
+	martial=40
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="italian"
+	trait=brilliant_strategist
+	trait=master_of_flame
+	trait=master_warrior
+	trait=erudite
+	trait=strong
+	trait=fair
+	trait=genius
+	trait=shrewd
+	trait=robust
+	trait=duelist
+	trait=gregarious
+	trait=diligent
+	trait=kind
+	trait=just
+	trait=sympathy_judaism
+	1032.6.4={
+		# Real birth date: 1982. június 4.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = italian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260801 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260819 = {
+	name="Richárd"
+	dynasty=1100290938
+    dna="c0aec0facf0"
+    properties="jl0g0k"
+	martial=20
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="hungarian"
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=crusader
+	trait=master_warrior
+	trait=erudite
+	trait=strong
+	trait=sympathy_islam
+	trait=robust
+	trait=strategist
+	trait=gamer
+	1045.10.4={
+		# Real birth date: 1995. november 4.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260801 }
+		effect = { add_friend=1000260796 }
+		effect = { add_friend=1000260805 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260820 = {
+	name="Rafael"
+	dynasty=1100290939
+    dna="c0aic0cahf0"
+    properties="je0ghk"
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=2
+	learning = 20
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="portuguese"
+	trait=brilliant_strategist
+	trait=master_of_flame
+	trait=master_warrior
+	trait=strong
+	trait=fair
+	trait=robust
+	trait=duelist
+	trait=lustful
+	trait=seducer
+	1041.6.21={
+		# Real birth date: 1991. június 21.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		effect = { add_friend=1000260786 }
+		effect = { add_friend=1000260793 }
+		effect = { add_friend=1000260789 }
+		effect = { add_friend=1000260790 }
+		effect = { add_friend=1000260812 }
+		effect = { add_friend=1000260792 }
+		
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260821 = {
+	name="Longfur"
+	dynasty=0
+	martial=35
+	diplomacy=35
+	intrigue=35
+	stewardship=35
+	learning=35
+	father=1000260786
+	disallow_random_traits = yes
+	trait=adventurer
+	health=20
+	religion="catholic"
+	culture="cat"
+	trait=elusive_shadow
+	trait=fair
+	trait=quick
+	trait=groomed
+	trait=schemer
+	trait=cat
+	trait=proud
+	trait=shy
+	trait=craven
+	trait=deceitful
+	trait=slothful
+	trait=cynical
+	trait=cannibal_trait
+	1065.5.12={
+		birth=yes
+		employer=1000260786
+		effect = { add_friend=1000260786 }
+		effect = { add_age=14 }
+		effect = { change_intrigue=50 }
+		effect = { change_learning=10 }
+		effect = { change_martial=10 }
+		effect = { change_diplomacy=10 }
+		effect = { reverse_opinion = {
+			modifier = opinion_my_kitten
+			who = 1000260786
+			years = 100
+		} }
+		add_trait = immortal
+		immortal_age=16
+	}
+	1300.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+
+1000260822 = {
+	name="Jihim"
+	dynasty=1100291038
+	dna="dbigcjjaaaw"
+	properties="gc0dad00000000"
+	disallow_random_traits = yes
+	martial=6
+	diplomacy=15
+	intrigue=5
+	stewardship=7
+	learning=20
+	religion="catholic"
+	culture="yue"
+	trait=diligent
+	trait=just
+	trait=erudite
+	trait=humble
+	trait=content
+	trait=lustful
+	trait=mastermind_theologian
+	trait=genius
+	trait=scholar
+	trait=adventurer
+	health=20
+	trait=sympathy_indian
+	1043.11.3={
+		# Real birth date: 1993. június 21.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = jade_dragon }
+		effect = { add_artifact = chinese_dragon_amulet }
+		effect = { add_artifact = chinese_artwork }
+		effect = { add_artifact = chinese_calligraphy }
+		effect = { add_artifact = chinese_sculpture }
+		effect = { add_artifact = chinese_ceremonial_robes }
+		effect = { add_artifact = jian_sword }
+		effect = { add_artifact = chinese_prev_emperor_sculpture }
+		effect = { add_artifact = chinese_arm_protector }
+		effect = { add_artifact = chinese_serpent_spear }
+		effect = { add_artifact = chinese_ji }
+		effect = { add_artifact = chinese_crossbow }
+		effect = { add_artifact = chinese_bronze_sculpture }
+		effect = { add_artifact = chinese_painting_of_glitterhoof }
+		effect = { add_artifact = chinese_tapestry }
+		effect = { add_artifact = chinese_tapestry_grand }
+		effect = { add_artifact = classic_of_poetry }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		employer=1000260786	
+		give_job_title = job_chancellor
+		effect = { give_job_title = job_lord_spiritual }
+		
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260823 = {
+	name="Naoki"
+	dynasty=1100291210
+	dna="cabei0ka000"
+	properties="ki0iak"
+	disallow_random_traits = yes
+	martial=6
+	diplomacy=15
+	intrigue=5
+	stewardship=7
+	learning=20
+	religion="baltic_pagan"
+	culture="japanese"
+	trait=diligent
+	trait=romuvas_own
+	trait=baltic_leader
+	trait=just
+	trait=humble
+	trait=content
+	trait=erudite
+	trait=grey_eminence
+	trait=genius
+	trait=scholar
+	trait=adventurer
+	health=20
+	trait=sympathy_indian
+	1047.1.4={
+		# Real birth date: 1997. január 4.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		employer=1000260786	
+		give_job_title = job_chancellor
+		effect = { give_job_title = job_chancellor }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260824 = {
+	name="Daniel"
+	dynasty=442
+	dna="0hcfe0cb000"
+	properties="pg0gek"
+	disallow_random_traits = yes
+	martial=10
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="catalan"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=holy_warrior
+	trait=inspiring_leader
+	trait=finnish_leader
+	trait=zealous
+	trait=adventurer
+	health=20
+	trait=fair
+	trait=strong
+	trait=robust
+	trait=hunter
+	trait=diligent
+	trait=humble
+	trait=gluttonous
+	trait=ambitious
+	trait=brave
+	trait=crusader
+	1041.8.1={
+		# Real birth date: 1991. augusztus 1.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260792
+		effect = { add_friend=1000260792 }
+		add_friend=1000260791
+		effect = { add_friend=1000260791 }
+		add_friend=1000260827
+		effect = { add_friend=1000260827 }
+		add_friend=1000260790
+		effect = { add_friend=1000260790 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+		add_friend=1000260825
+		effect = { add_friend=1000260825 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260825 = {
+	name="Odin"
+	dynasty=1100291244
+	dna="0hcfe0cbd00"
+	properties="pg0g0k"
+	disallow_random_traits = yes
+	martial=10
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="swedish"
+	race="german"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=holy_warrior
+	trait=inspiring_leader
+	trait=norse_leader
+	trait=zealous
+	trait=adventurer
+	health=20
+	trait=groomed
+	trait=chaste
+	trait=scholar
+	trait=diligent
+	trait=humble
+	trait=crusader
+	trait=ambitious
+	trait=brave
+	1049.1.7={
+		# Real birth date: 1999. január 7.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260828
+		effect = { add_friend=1000260828 }
+		add_friend=1000260797
+		effect = { add_friend=1000260797 }
+		add_friend=1000260808
+		effect = { add_friend=1000260808 }
+		add_friend=1000260804
+		effect = { add_friend=1000260804 }
+		add_friend=1000260801
+		effect = { add_friend=1000260801 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+1000260826 = {
+	name="Árón"
+	dynasty=1100291245
+	dna="aeigd00a000"
+	properties="bh000k"
+	disallow_random_traits = yes
+	martial=10
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="baltic_pagan"
+	culture="irish"
+	trait=brilliant_strategist
+	trait=holy_warrior
+	trait=inspiring_leader
+	trait=baltic_leader
+	trait=romuvas_own
+	trait=cynical
+	trait=adventurer
+	health=20
+	trait=groomed
+	trait=lustful
+	trait=duelist
+	trait=diligent
+	trait=gluttonous
+	trait=ambitious
+	trait=brave
+	1041.1.4={
+		# Real birth date: 1991. január 4.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260797
+		effect = { add_friend=1000260797 }
+		add_friend=1000260804
+		effect = { add_friend=1000260804 }
+		add_friend=1000260829
+		effect = { add_friend=1000260829 }
+		add_friend=1000260788
+		effect = { add_friend=1000260788 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260828
+		effect = { add_friend=1000260828 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260827 = {
+	name="Inês"
+	female = yes
+	dynasty=1100291246
+	dna="aeigd00aab0"
+	properties="be000k"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="portuguese"
+	race=irish
+	trait=adventurer
+	health=20
+	trait=midas_touched
+	trait=robust
+	trait=groomed
+	trait=fair
+	trait=genius
+	trait=shrewd
+	trait=huge_tits
+	trait=scholar
+	trait=physician
+	trait=erudite
+	trait=patient
+	trait=kind
+	trait=humble
+	trait=gluttonous
+	trait=cynical
+	1035.2.1={
+		# Real birth date: 1985. február 1.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = irish }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260825
+		effect = { add_friend=1000260824 }
+		add_friend=1000260828
+		effect = { add_friend=1000260828 }
+		add_friend=1000260820
+		effect = { add_friend=1000260820 }
+		add_friend=1000260802
+		effect = { add_friend=1000260802 }
+		add_friend=1000260797
+		effect = { add_friend=1000260797 }
+		add_friend=1000260798
+		effect = { add_friend=1000260798 }
+		add_friend=1000260803
+		effect = { add_friend=1000260803 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260828 = {
+	name="Ingrid"
+	female = yes
+	dynasty=1100291247
+	dna="aeecd0aai00"
+	properties="be000k"
+	disallow_random_traits = yes
+	martial=35
+	diplomacy=10
+	intrigue=10
+	stewardship=35
+	learning=25
+	religion="catholic"
+	culture="catalan"
+	race=german
+	trait=mastermind_theologian
+	trait=master_of_flame
+	trait=master_warrior
+	trait=norse_leader
+	trait=cynical
+	trait=adventurer
+	health=20
+	trait=fair
+	trait=groomed
+	trait=genius
+	trait=shrewd
+	trait=erudite
+	trait=architect
+	trait=physician
+	trait=shieldmaiden
+	trait=sympathy_pagans
+	trait=sympathy_zoroastrianism
+	trait=sea_queen
+	1040.2.11={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+		effect = { add_artifact = magnum_opus_alchemy_transmutation_4 }
+	}
+	1066.1.1={
+		employer=1000260804 # She was always in Barcelona
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+		add_friend=1000260827
+		effect = { add_friend=1000260827 }
+		add_friend=1000260819
+		effect = { add_friend=1000260819 }
+		add_friend=1000260792
+		effect = { add_friend=1000260792 }
+		add_friend=1000260825
+		effect = { add_friend=1000260825 }
+		add_friend=1000260825
+		effect = { add_friend=1000260824 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260829 = {
+	name="Rachel"
+	female = yes
+	dynasty=1100291248
+	dna="agibh0haa00"
+	properties="be000k"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="japanese"
+	trait=adventurer
+	health=20
+	trait=grey_eminence
+	trait=fair
+	trait=groomed
+	trait=socializer
+	trait=temperate
+	trait=kind
+	trait=humble
+	trait=erudite
+	trait=kow_tow_completed_tier_3
+	1038.5.15={
+		# Real birth date: Unknown
+		# Her father was born on 1958. április 15.
+		# Assuming that her father was 30~ when she was born
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260830 = {
+	name="Berkay"
+	dynasty=1100291249
+	dna="0aica0a0000"
+	properties="o00bek"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="tengri_pagan"
+	culture="turkish"
+	race=andalusian_arabic
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=tengri_leader
+	trait=tengri_warrior
+	trait=master_warrior
+	trait=cynical
+	trait=fair
+	trait=strong
+	trait=robust
+	trait=socializer
+	trait=lustful
+	1041.8.1={
+		# Real birth date: Unknown
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = andalusian_arabic }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+		add_friend=1000260820
+		effect = { add_friend=1000260820 }
+		add_friend=1000260802
+		effect = { add_friend=1000260802 }
+		add_friend=1000260797
+		effect = { add_friend=1000260797 }
+		add_friend=1000260804
+		effect = { add_friend=1000260804 }
+		add_friend=1000260788
+		effect = { add_friend=1000260788 }
+		add_friend=1000260803
+		effect = { add_friend=1000260803 }
+		add_friend=1000260796
+		effect = { add_friend=1000260796 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260827
+		effect = { add_friend=1000260827 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260831 = {
+	name="Davide"
+	dynasty=1100291250
+	dna="cahgc0g0000"
+	properties="je0b0k"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="italian"
+	trait=adventurer
+	health=20
+	trait=grey_eminence
+	trait=master_warrior
+	trait=cynical
+	trait=strong
+	trait=robust
+	trait=strategist
+	1040.8.4={
+		# Real birth date: 1990. augusztus 4.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = italian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260828
+		effect = { add_friend=1000260828 }
+		add_friend=1000260829
+		effect = { add_friend=1000260829 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260832 = {
+	name="Ballist"
+	dynasty=1100291251
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="arberian"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=tengri_leader
+	trait=logistics_expert
+	trait=zealous
+	trait=strategist
+	1044.4.18={
+		# Real birth date: 1994. április 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260805
+		effect = { add_friend=1000260805 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+		add_friend=1000260804
+		effect = { add_friend=1000260804 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260833 = {
+	name="Amelia"
+	female = yes
+	dynasty=1100291252
+	dna="cahfc0b0e00"
+	properties="je0b0k"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="polish"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=tengri_leader
+	trait=master_of_flame
+	trait=depressed
+	trait=shieldmaiden
+	trait=gluttonous
+	trait=fair
+	trait=genius
+	trait=possessed
+	trait=robust
+	trait=strong
+	trait=duelist
+	trait=poet
+	1048.5.16={
+		# Real birth date: Unknown year, Május 16.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = russian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260823
+		effect = { add_friend=1000260823 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260834 = {
+	name="Erik"
+	dynasty=1100291669
+	dna="0gide0gba00"
+	properties="ni0abk"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="jewish"
+	culture="ashkenazi"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=master_warrior
+	trait=shaddai
+	trait=seaking
+	trait=norse_leader
+	trait=sympathy_christendom
+	trait=kow_tow_completed_tier_3
+	trait=shrewd
+	trait=genius
+	trait=strong
+	trait=honest
+	trait=gregarious
+	trait=erudite
+	1044.5.28={
+		# Real birth date: 1994. május 27.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = russian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260835 = {
+	name="Claudia"
+	female = yes
+	dynasty=1100291671
+	dna="acgbg0gc0e0"
+	properties="vh0e0k"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=5
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="cathar"
+	culture="italian"
+	trait=adventurer
+	health=20
+	trait=underhanded_rogue
+	trait=cynical
+	trait=eunuch
+	trait=celibate
+	trait=fair
+	trait=gardener
+	trait=chaste
+	trait=temperate
+	trait=charitable
+	trait=diligent
+	trait=patient
+	trait=kind
+	trait=humble
+	trait=shy
+	trait=nun
+	1050.5.16={
+		# Real birth date: Unknown year, Május 16.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = bedouin_arabic }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260834
+		effect = { add_friend=1000260834 }
+		
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260803
+		effect = { add_friend=1000260803 }
+		add_friend=1000260790
+		effect = { add_friend=1000260790 }
+		add_friend=1000260824
+		effect = { add_friend=1000260824 }
+		add_friend=1000260805
+		effect = { add_friend=1000260805 }
+		add_friend=1000260812
+		effect = { add_friend=1000260812 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+
+1000260836 = {
+	name="Ignacy"
+	dynasty=1100291242
+	dna="bddac0dbef0"
+	properties="wg0ebk"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="polish"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=cynical
+	trait=sympathy_pagans
+	trait=genius
+	trait=strong
+	trait=fair
+	trait=robust
+	trait=groomed
+	trait=hunter
+	trait=honest
+	trait=just
+	trait=aggressive_leader
+	1039.11.7={
+		# Real birth date: 1989. november 7.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+		add_friend=1000260814
+		effect = { add_friend=1000260814 }
+		add_friend=1000260790
+		effect = { add_friend=1000260790 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+		add_friend=1000260792
+		effect = { add_friend=1000260792 }
+		add_friend=1000260802
+		effect = { add_friend=1000260802 }
+		add_friend=1000260837
+		effect = { add_friend=1000260837 }
+		add_lover=1000260837
+		effect = { add_lover=1000260837 }
+		add_spouse=1000260837
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260837 = {
+	name="Katarzyna"
+	female = yes
+	dynasty=1100291241
+	dna="bddcc0cbef0"
+	properties="we0e0k"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="slavic_pagan"
+	culture="polish"
+	trait=adventurer
+	health=20
+	trait=elusive_shadow
+	trait=sympathy_zoroastrianism
+	trait=mystic
+	trait=temperate
+	trait=proud
+	trait=chaste
+	trait=paranoid
+	trait=stubborn
+	1046.3.22={
+		# Real birth date: 1996. március 22.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = polish }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260836
+		effect = { add_friend=1000260836 }
+		add_lover=1000260836
+		effect = { add_lover=1000260836 }
+		add_spouse=1000260836
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260826
+		effect = { add_friend=1000260826 }
+		add_friend=1000260814
+		effect = { add_friend=1000260814 }
+		add_friend=1000260790
+		effect = { add_friend=1000260790 }
+		add_friend=1000260789
+		effect = { add_friend=1000260789 }
+		add_friend=1000260792
+		effect = { add_friend=1000260792 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+
+1000260838 = {
+	name="Nathaniel"
+	dynasty=1100291227
+	dna="afedi0dcaa0"
+	properties="vc0efk"
+	disallow_random_traits = yes
+	martial=20
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="aztec"
+	culture="welsh"
+	trait=adventurer
+	health=20
+	trait=brilliant_strategist
+	trait=logistics_expert
+	trait=master_of_flame
+	trait=sapper
+	trait=levy_coordinator
+	trait=cynical
+	trait=genius
+	trait=gluttonous
+	trait=kow_tow_completed_tier_3
+	trait=bloodthirsty_gods_3
+	trait=cruel
+	trait=lustful
+	1040.11.18={
+		# Real birth date: 1990. november 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = italian }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		employer=1000260790
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260813
+		effect = { add_friend=1000260813 }
+		add_friend=1000260790
+		effect = { add_friend=1000260790 }
+		add_friend=1000260793
+		effect = { add_friend=1000260793 }
+		add_friend=1000260829
+		effect = { add_friend=1000260829 }
+		add_friend=1000260839
+		effect = { add_friend=1000260839 }
+		add_lover=1000260839
+		effect = { add_lover=1000260839 }
+		add_spouse=1000260839
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260839 = {
+	name="Angelika"
+	female=yes
+	dynasty=1100291235
+	dna="acbbg0gche0"
+	properties="vc0e0k"
+	disallow_random_traits = yes
+	martial=5
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="polish"
+	trait=adventurer
+	health=20
+	trait=elusive_shadow
+	trait=cynical
+	trait=fair
+	trait=shy
+	trait=groomed
+	trait=kind
+	trait=temperate
+	trait=patient
+	trait=craven
+	trait=stubborn
+	1041.6.18={
+		# Real birth date: 1991. június 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+		add_friend=1000260838
+		effect = { add_friend=1000260838 }
+		add_lover=1000260838
+		effect = { add_lover=1000260838 }
+		add_spouse=1000260838
+		add_friend=1000260823
+		effect = { add_friend=1000260823 }
+		add_friend=1000260796
+		effect = { add_friend=1000260796 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260840 = {
+	name="Anna Kleopátra"
+	female=yes
+	dynasty=1100291670
+	dna="afefi0dcha0"
+	properties="vf0e0k"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="tengri_pagan"
+	culture="hungarian"
+	trait=adventurer
+	health=20
+	trait=midas_touched
+	trait=fair
+	trait=genius
+	trait=strong
+	trait=groomed
+	trait=shy
+	trait=shieldmaiden
+	trait=hunter
+	trait=tengri_leader
+	trait=tengri_warrior
+	1048.4.14={
+		# Real birth date: 1991. június 18.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = german }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		employer=1000260788
+		add_friend=1000260788
+		effect = { add_friend=1000260788 }
+		add_friend=1000260833
+		effect = { add_friend=1000260833 }
+		add_friend=1000260823
+		effect = { add_friend=1000260823 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+1000260841 = {
+	name="Elci"
+	female=yes
+	dynasty=1100291672
+	dna="0kfji00bc00"
+	properties="0d0h0k"
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="catholic"
+	culture="castillan"
+	trait=adventurer
+	health=20
+	trait=midas_touched
+	trait=fair
+	trait=genius
+	trait=strong
+	trait=groomed
+	trait=shy
+	trait=shieldmaiden
+	trait=hunter
+	trait=cynical
+	1042.9.19={
+		# Real birth date: 1992. szeptember 19.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_graphical_culture = frankish }
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
+
+
+1000260842 = {
+	name="Davíd"
+	dynasty=279
+	disallow_random_traits = yes
+	martial=15
+	diplomacy=10
+	intrigue=10
+	stewardship=10
+	learning=20
+	religion="zoroastrian"
+	culture="castillan"
+	trait=adventurer
+	health=20
+	trait=elusive_shadow
+	trait=cynical
+	trait=genius
+	trait=strong
+	trait=groomed
+	trait=robust
+	trait=impaler
+	trait=schemer
+	trait=deceitful
+	1037.9.12={
+		# Real birth date: 1987. szeptember 12.
+		# Assumed start date: 1066
+		birth=yes
+		effect = { set_character_flag = taught_chinese_strategy }
+		effect = { add_artifact = hermetic_handgun }
+		effect = { add_artifact = hermetic_compass }
+		effect = { add_artifact = hermetic_plate_armor }
+		effect = { add_artifact = radius_astronomicus }
+		effect = { add_artifact = hermetic_cypher_machine }
+		effect = { add_artifact = emerald_tablet }
+	}
+	1066.1.1={
+		employer=1000260786
+		add_friend=1000260786
+		effect = { add_friend=1000260786 }
+	}
+	1083.1.1 = {
+		death={
+			death_reason=death_execution
+			killer=4386
+		}
+	}
+}
